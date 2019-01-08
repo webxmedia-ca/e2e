@@ -1,0 +1,13 @@
+wetlandName,wetlandClass,abwretaValue,wetlandArea,impactedArea,wetlandLoss
+A,WAIF Bog [B],B,0.08,0,0
+B,WAIF Bog [B],B,0.08,0,0
+C,WAIF Bog [B],C,0.08,0,0
+D,WAIF Bog [B],D,0.08,0,0
+E,WAIF Bog [B],B,0.08,0,0
+F,WAIF Bog [B],C,0.08,0,0
+G,WAIF Fen [F],D,0.08,0,0
+H,WAIF Fen [F],D,0.08,0,0
+I,WAIF Fen [F],B,0.08,0,0
+J,WAIF Shallow Open Water [W],D,0.08,0,0
+K,WAIF Shallow Open Water [W],D,0.08,0,0
+L,WAIF Shallow Open Water [W],B,0.08,0,0

@@ -1,0 +1,86 @@
+{
+  "reportingFormat": "Manual Entry",
+  "manualEntries": {
+    "methaneEmissions": {
+      "reportingYear": "January 1,2018 - December 31,2018",
+      "reportingFacilityId": "ABBT0052210"
+    },
+    "individualDehydratorValues": {
+      "uniqueSiteId": "13254",
+      "uniqueHydratorId": "123",
+      "nrOfDehydratorsOnSite": "3",
+      "surfaceLocationValues": {
+        "subdivision": "10",
+        "section": "10",
+        "township": "15",
+        "range": "25",
+        "meridian": "5"
+      },
+      "distanceToNearestSurfaceDevelopment": "50",
+      "notificationCompleted": "Yes",
+      "installationType": "Battery",
+      "processType": "Dehydration",
+      "dehydratorOperatingStatus": "Operating",
+      "yearOfInstallationOrRelocation": "2017",
+      "siteLimitWhereMultipleDehydratorsOnSite": "5000",
+      "gasFlowRateToDehydrator": "500",
+      "glycolCirculationRate": "100",
+      "wetGasWaterContent": "10",
+      "benzeneConcentration": "15.000",
+      "nrOfOperatingDays": "35",
+      "methaneEmissions": "1000.00",
+      "annualBenzeneEmissionsBeforeControl": "4000.00",
+      "annualBenzeneEmissionsAfterControl": "3500.00",
+      "cumulativeBenzeneEmissionsForMultipleDehydratorsOnSite": "10500.00",
+      "primaryControl": "Other",
+      "primaryControlEfficiency": "75",
+      "primaryControlOther": "asdasddsgsdg fdg fhgfhhg",
+      "secondaryControl": "Other",
+      "secondaryControlEfficiency": "85",
+      "secondaryControlOther": "dfg54ty wrt gsfg rwtg",
+      "thirdControl": "Other",
+      "thirdControlEfficiency": "95",
+      "thirdControlOther": "shy6thy fhfd ghfrhhh",
+      "emissionDeterminationMethod": {
+        "massBalance": "Yes",
+        "simulationTool": "Yes",
+        "stackSampling": "Yes",
+        "totalCaptureTesting": "Yes"
+      },
+      "dateOfEmissionsTestingOrStackSampling": "2018-09-20",
+      "comments": "individual dehydrator inventory form comment #"
+    },
+    "tanks": {
+      "massMethane": "123",
+      "totalVolume": "321"
+    },
+    "routineVenting": {
+      "massMethane": "123",
+      "totalVolume": "321",
+      "highBleedCount": "3",
+      "lowBleedCount": "1",
+      "pumpCount": "1"
+    },
+    "compressors": {
+      "massMethane": "123",
+      "totalVolume": "321",
+      "addCompressorValues": {
+        "LLDLocation": "",
+        "installationYear": "2017",
+        "compressorType": "Reciprocating",
+        "throwCount": "15",
+        "sealType": null,
+        "sealVentControl": "Yes",
+        "ratedPower": "100",
+        "annualVentVolume": "999",
+        "massMethaneTonnes": "12345",
+        "pressurizedTimeHours": "asdasd",
+        "serialNumber": "!@#!@#"
+      }
+    },
+    "fugitives": {
+      "massMethane": "123",
+      "totalVolume": "321"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "reportsLinks": [
+    {
+      "name": "application statistics lifecycle'",
+      "url": "/AEP/views/051ApplicationStatisticsLifecycleINT/ApplicationStatisticsSummary?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no",
+      "expectedTitle" : "Application Statistics Summary"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "contactInformation": {
+    "applicantName": "automated tests",
+    "applicantEmail": "automated.tester@aer.ca"
+  },
+  "applicationInformation": {
+    "addAppToExistingProject": "N",
+    "projectName": "harness.getCommandLineArgs().appType + ':' + harness.getCommandLineArgs().appSubType + ' - ' + harness.Moment().format()",
+    "areThereExistingAuthorizations": "N"
+  },
+  "proposedActivity": {
+    "locatedOnPublicLand": true,
+    "locatedOnPrivateLand": false,
+    "activitiesPipelines": false,
+    "activitiesWells": true,
+    "activitiesFacilities": false,
+    "associatedWith": "TRANSMISSION PIPELINE",
+    "typeOfAmendment": null
+  },
+  "additionalInfo": {
+    "outstandingConcerns": "N",
+    "requiresEPEAApproval": "N",
+    "willSubmitEPEACodeOfPReg": "N",
+    "willSubmitWACofPNotifications": "N",
+    "requiresWaterActApproval": "N",
+    "requiresWaterActLicense": "N"
+  },
+  "activityInfo": {
+    "sketchSurveyShapefileUploadPath": "/attachments/Disposition_Upload_Sample.zip",
+    "dispositionValues": [
+      {
+        "dispositionType": "AER Mineral Surface Lease",
+        "purpose": "Drilling Waste Disposal",
+        "activity": "Remote Sump",
+        "parentDispositions": [
+          {
+            "dispositionNumber": "01"
+          },
+          {
+            "dispositionNumber": "02"
+          }
+        ]
+      },
+      {
+        "dispositionType": "AER License of Occupation",
+        "purpose": "Access",
+        "activity": "Major Corridor",
+        "parentDispositions": [
+          {
+            "dispositionNumber": "2"
+          }
+        ]
+      },
+      {
+        "dispositionType": "Regulator Temporary Field Authorization/Approval",
+        "purpose": "Bed and Shore",
+        "activity": "Dyke/Flood Prevention Berm",
+        "parentDispositions": [
+          {
+            "dispositionNumber": "3"
+          }
+        ]
+      },
+      {
+        "dispositionType": "Regulator Temporary Field Authorization/Approval",
+        "purpose": "Erosion Protection",
+        "activity": "Upland Erosion Protection",
+        "parentDispositions": [
+          {
+            "dispositionNumber": "4"
+          }
+        ]
+      }
+    ],
+    "sketchSurveyAssociationFileUploadPath": "require('path').join(__dirname, '/attachments/PublicLand_SurveyUpload.pdf')",
+    "dimensionsGridValues": [
+      {
+        "dimensions":[
+          {
+            "shapeType": "Irregular",
+            "length": "100",
+            "width": "50",
+            "totalArea": "5000",
+            "newCut": "50",
+            "existingCut": "0"
+          },
+          {
+            "shapeType": "No",
+            "length": "10",
+            "width": "5",
+            "totalArea": "500",
+            "newCut": "5",
+            "existingCut": "50"
+          }
+        ]
+      }
+    ]
+  }
+}

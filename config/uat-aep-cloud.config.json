@@ -1,0 +1,27 @@
+{
+  "baseUrlExt": "https://eas-uat.gov.ab.ca/onestop",
+  "baseUrlInt": "https://eas-uat.gov.ab.ca/onestop-int",
+  "gisBaseExternalUrl": "https://extmapviewer-uat.aer.ca",
+  "gisBasePublicUrl": "https://extmapviewer-uat.aer.ca",
+  "gisBaseInternalUrl": "https://easimv-uat.gov.ab.ca/onestop",
+  "tableauBaseExternalUrl": "https://bi-uat.aer.ca/t",
+  "tableauBaseInternalUrl": "https://easbi-uat.gov.ab.ca/t",
+  "internal": {
+    "credentials": {
+      "username": "EASASU.T@gov.ab.ca",
+      "password": "FallWinter2018"
+    }
+  },
+  "external": {
+    "credentials": {
+      "username": "001person",
+      "password": "Nala@2017"
+    }
+  },
+  "public": {
+    "credentials": {
+      "username": "",
+      "password": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+wetlandName,wetlandClass,abwretdValue,wetlandArea,impactedArea,wetlandLoss
+A,Bog [B]-Graminoid [G],B,0.08,1,0
+B,Bog [B]-Graminoid [G],B,0.08,1,0
+C,Bog [B]-Graminoid [G],C,0.08,1,0
+D,Bog [B]-Graminoid [G],D,0.08,0,1
+E,Bog [B]-Graminoid [G],B,0.08,0,1
+F,Bog [B]-Graminoid [G],C,0.08,1,0
+G,Fen [F]-Graminoid [G],D,0.08,1,0
+H,Fen [F]-Graminoid [G],D,0.08,1,0
+I,Fen [F]-Graminoid [G],B,0.08,1,0
+J,Shallow Open Water [W]-Bare [B]-Permanent [V],D,0.08,1,0
+K,Shallow Open Water [W]-Bare [B]-Permanent [V],D,0.08,1,0
+L,Shallow Open Water [W]-Bare [B]-Permanent [V],B,0.08,1,0

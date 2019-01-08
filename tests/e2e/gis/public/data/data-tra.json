@@ -1,0 +1,696 @@
+{
+  "toolsMenu": [
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": "button[title='Find ATS']",
+      "expectedCSS": "span[title='Go To ATS']",
+      "expectedText": "Go To ATS",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": "button[title='FindAddress']",
+      "expectedCSS": "span[title='Find Address']",
+      "expectedText": "Find Address",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": "button[title='Find out about a location on the map']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Identify",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Enable buffering for active tool']",
+      "expectedCSS": "span[title='Buffer Options']",
+      "expectedText": "Buffer Options",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Disable buffering for active tool']",
+      "expectedCSS": false,
+      "expectedText": false,
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Enable/Disable layers selected for identify operations']",
+      "expectedCSS": "span[title='Identifiable Layers']",
+      "expectedText": "Identifiable Layers",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": ".CompactToolbarView > .flyout-menu > .flyout-menu-active-tool",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": "button[title='Plot coordinates on the map']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "PlotCoordinatesTool",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedCSS": ".CoordinatesContainerView span[title='Plot Coordinates']",
+      "expectedText": "Plot Coordinates",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": ".CompactToolbarView > .flyout-menu > .flyout-menu-active-tool",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Return to the initial position of the map']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": "button[title='Return to the full extent of the map']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": "button[title='Zoom to the previous extent']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": ".map-top-right .scroll-forward",
+      "expectedCSS": "button[title='Show simple query builder']",
+      "expectedText": "Query",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Zoom to the next extent']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": ".map-top-right .scroll-forward",
+      "expectedCSS": "button[title='Show simple query builder']",
+      "expectedText": "Query",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Add a point to the map']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Point",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Change which layers are snappable']",
+      "expectedCSS": "span[title='Snappable Layers']",
+      "expectedText": "Snappable Layers",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Choose styling for the currently selected drawing tool']",
+      "expectedCSS": ".modal-container .panel-title .bound-visible-inline",
+      "expectedText": "Select Desired Styling",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": ".CompactToolbarView > .flyout-menu > .flyout-menu-active-tool",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": ".map-top-right .scroll-forward",
+      "expectedCSS": "button[title='Show simple query builder']",
+      "expectedText": "Query",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Draw a multi-part line to measure a distance']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Distance",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Change which layers are snappable']",
+      "expectedCSS": "span[title='Snappable Layers']",
+      "expectedText": "Snappable Layers",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": ".CompactToolbarView > .flyout-menu > .flyout-menu-active-tool",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": ".map-top-right .scroll-forward",
+      "expectedCSS": "button[title='Show simple query builder']",
+      "expectedText": "Query",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Show simple query builder']",
+      "expectedCSS": ".SimpleQueryBuilderContainerView span[title='Query']",
+      "expectedText": "Query",
+      "closeSideMenu": true
+    }
+  ],
+  "layersList": [
+    {
+      "layerName": "Reference Grid",
+      "subMenu": [
+        {
+          "layerName": "Legal SubDivision"
+        },
+        {
+          "layerName": "Quarter Section with Road Allowance"
+        },
+        {
+          "layerName": "Section"
+        },
+        {
+          "layerName": "Township Index"
+        },
+        {
+          "layerName": "Provincial Boundaries"
+        }
+      ]
+    },
+    {
+      "layerName": "Incidents",
+      "subMenu": [
+        {
+          "layerName": "Complaint Incidents"
+        },
+        {
+          "layerName": "Release Incidents",
+          "subMenu": [
+            {
+              "layerName": "Fresh Water"
+            },
+            {
+              "layerName": "All Other Substances"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layerName": "Asset",
+      "subMenu": [
+        {
+          "layerName": "Well Licences (surface hole)"
+        },
+        {
+          "layerName": "Facility Licences"
+        },
+        {
+          "layerName": "Compressor Station & Sweet Plant (COP)"
+        },
+        {
+          "layerName": "Pipelines"
+        },
+        {
+          "layerName": "Pipeline Installations (Points)"
+        },
+        {
+          "layerName": "AER DIDS Applications"
+        },
+        {
+          "layerName": "Industrial Disposition"
+        },
+        {
+          "layerName": "Commercial Disposition"
+        },
+        {
+          "layerName": "Agriculture Disposition"
+        },
+        {
+          "layerName": "Reservation Disposition"
+        },
+        {
+          "layerName": "DIDS Conflicts"
+        },
+        {
+          "layerName": "DIDS Historical"
+        }
+      ]
+    },
+    {
+      "layerName": "Application",
+      "subMenu": [
+        {
+          "layerName": "Provisional Pipeline"
+        },
+        {
+          "layerName": "Provisional Pipeline Installations (Points)"
+        },
+        {
+          "layerName": "Provisional Water Act Authorization",
+          "subMenu": [
+            {
+              "layerName": "Provisional Water Act Activity Area"
+            },
+            {
+              "layerName": "Provisional Dam"
+            },
+            {
+              "layerName": "Provisional Pond"
+            },
+            {
+              "layerName": "Provisional Reservoir"
+            },
+            {
+              "layerName": "Provisional Wetland"
+            }
+          ]
+        },
+        {
+          "layerName": "Reclamation Application"
+        }
+      ]
+    },
+    {
+      "layerName": "Authorization",
+      "subMenu": [
+        {
+          "layerName": "Water Act Activity Area"
+        },
+        {
+          "layerName": "Dam"
+        },
+        {
+          "layerName": "Pond"
+        },
+        {
+          "layerName": "Reservoir"
+        },
+        {
+          "layerName": "Wetland"
+        },
+        {
+          "layerName": "Reclamation Authorization"
+        }
+      ]
+    },
+    {
+      "layerName": "Weather & Environment",
+      "subMenu": [
+        {
+          "layerName": "MODIS Fire Detection Locations",
+          "subMenu": [
+            {
+              "layerName": "MODIS - Last 6 Hours"
+            },
+            {
+              "layerName": "MODIS - Last 12 Hours"
+            },
+            {
+              "layerName": "MODIS - Last 24 Hours"
+            },
+            {
+              "layerName": "MODIS - Current Year"
+            }
+          ]
+        },
+        {
+          "layerName": "VIIRS-AF Fire Detection Locations",
+          "subMenu": [
+            {
+              "layerName": "VIIRS-AF - Last 6 Hours"
+            },
+            {
+              "layerName": "VIIRS-AF - Last 12 Hours"
+            },
+            {
+              "layerName": "VIIRS-AF - Last 24 Hours"
+            },
+            {
+              "layerName": "VIIRS-AF - Current Year"
+            }
+          ]
+        },
+        {
+          "layerName": "VIIRS I Band Fire Detection Locations",
+          "subMenu": [
+            {
+              "layerName": "VIIRS I Band - Last 6 Hours"
+            },
+            {
+              "layerName": "VIIRS I Band - Last 12 Hours"
+            },
+            {
+              "layerName": "VIIRS I Band - Last 24 Hours"
+            },
+            {
+              "layerName": "VIIRS I Band - Current Year"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layerName": "Access",
+      "subMenu": [
+        {
+          "layerName": "Roads Paved"
+        },
+        {
+          "layerName": "Roads Gravel"
+        },
+        {
+          "layerName": "Roads Other"
+        },
+        {
+          "layerName": "Cutline"
+        },
+        {
+          "layerName": "Rail Line"
+        }
+      ]
+    },
+    {
+      "layerName": "Utility",
+      "subMenu": [
+        {
+          "layerName": "Power Lines"
+        }
+      ]
+    },
+    {
+      "layerName": "Land",
+      "subMenu": [
+        {
+          "layerName": "Brazeau Dam Buffer"
+        },
+        {
+          "layerName": "Battle Lake Tier 1"
+        },
+        {
+          "layerName": "Burnstick Lake Management Plan"
+        },
+        {
+          "layerName": "Land Ownership Outline"
+        },
+        {
+          "layerName": "Landtitles right-of-way"
+        },
+        {
+          "layerName": "Crown Ownership -Titled/Untitled/NonPatent"
+        },
+        {
+          "layerName": "Land-Use Framework Boundaries"
+        },
+        {
+          "layerName": "Public Land Use Zone"
+        },
+        {
+          "layerName": "Green White Areas"
+        }
+      ]
+    },
+    {
+      "layerName": "Coal",
+      "subMenu": [
+        {
+          "layerName": "Coal Mine Permits"
+        },
+        {
+          "layerName": "Coal Mines (Polygons)"
+        }
+      ]
+    },
+    {
+      "layerName": "Municipality",
+      "subMenu": [
+        {
+          "layerName": "City"
+        },
+        {
+          "layerName": "Town"
+        },
+        {
+          "layerName": "Village"
+        },
+        {
+          "layerName": "Summer Village"
+        },
+        {
+          "layerName": "Urban Service Areas"
+        },
+        {
+          "layerName": "Settlements Provincial"
+        },
+        {
+          "layerName": "Small Communities"
+        },
+        {
+          "layerName": "Special Area Rural Municipality"
+        },
+        {
+          "layerName": "Special Municipality"
+        },
+        {
+          "layerName": "Improvement Districts"
+        },
+        {
+          "layerName": "Municipal Districts"
+        }
+      ]
+    },
+    {
+      "layerName": "First Nations",
+      "subMenu": [
+        {
+          "layerName": "First Nation Reserve"
+        },
+        {
+          "layerName": "Metis Settlement"
+        }
+      ]
+    },
+    {
+      "layerName": "Parks and Protected Areas",
+      "subMenu": [
+        {
+          "layerName": "Natural Areas"
+        },
+        {
+          "layerName": "Crown Reserves"
+        },
+        {
+          "layerName": "Ecological Reserves"
+        },
+        {
+          "layerName": "Provincial Recreation Area"
+        },
+        {
+          "layerName": "Heritage Rangeland"
+        },
+        {
+          "layerName": "Provincial Park"
+        },
+        {
+          "layerName": "Wilderness Area"
+        },
+        {
+          "layerName": "Wilderness Park"
+        },
+        {
+          "layerName": "Wildland Park"
+        },
+        {
+          "layerName": "National Park"
+        }
+
+      ]
+    },
+    {
+      "layerName": "Forestry",
+      "subMenu": [
+        {
+          "layerName": "Rocky Mountain Forest Reserve"
+        }
+      ]
+    },
+    {
+      "layerName": "Hydrography",
+      "subMenu": [
+        {
+          "layerName": "Lakes and Rivers"
+        },
+        {
+          "layerName": "Rivers and Streams"
+        }
+      ]
+    },
+    {
+      "layerName": "Military",
+      "subMenu": [
+        {
+          "layerName": "Cold Lake Air Weapons Range"
+        },
+        {
+          "layerName": "Department of National Defense Base"
+        }
+      ]
+    },
+    {
+      "layerName": "AER Administration Area",
+      "subMenu": [
+        {
+          "layerName": "Field Centre Offices"
+        },
+        {
+          "layerName": "AER Operational Boundaries"
+        }
+      ]
+    },
+    {
+      "layerName": "Imagery",
+      "subMenu": [
+        {
+          "layerName": "Satellite Imagery",
+          "subMenu": [
+            {
+              "layerName": "SPOT6 2016",
+              "exception": "this layer is an exception - no arrow to be clicked"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layerName": "World Topographic Map",
+      "exception": "this layer is an exception - no arrow to be clicked"
+    },
+    {
+      "layerName": "Open Street Map",
+      "exception": "this layer is an exception - no arrow to be clicked"
+    }
+  ],
+  "quickSearchLinks": [
+    {
+      "clickQuickSearchBtn": true,
+      "linkToClick": false,
+      "expectedTextValue": false,
+      "clickCloseBtn": false
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Reclamation Application",
+      "expectedTextValue": "Find a Reclamation Application",
+      "resultsGridSectionTitle": "Application Found",
+      "resultsGridColumnTitle": "Application ID",
+      "clickCloseBtn": false
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Well Licence",
+      "expectedTextValue": "Find a Well",
+      "resultsGridSectionTitle": "Well Licences",
+      "resultsGridColumnTitle": "Well Licence Number",
+      "clickCloseBtn": false
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Facility Licence",
+      "expectedTextValue": "Find a Facility",
+      "resultsGridSectionTitle": "Facility Licences",
+      "resultsGridColumnTitle": "Facility Licence Number",
+      "clickCloseBtn": false
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Pipeline Licence",
+      "expectedTextValue": "Find a Pipeline",
+      "resultsGridSectionTitle": "Pipeline Licences",
+      "resultsGridColumnTitle": "Pipeline Licence Number~Pipeline Segment Line Number",
+      "searchParameters": [
+        {
+          "valueToSearch" : "1-24"
+        }
+      ],
+      "clickCloseBtn": false
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Pipeline Installation",
+      "expectedTextValue": "Find a Pipeline Installation",
+      "resultsGridSectionTitle": "Pipeline Installations",
+      "resultsGridColumnTitle": "Pipeline Licence Number~Installation ID",
+      "clickCloseBtn": false
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Compressor Station & Sweet Plant (COP)",
+      "expectedTextValue": "Find a COP",
+      "resultsGridSectionTitle": "Compressor Station & Sweet Plant (COP)",
+      "resultsGridColumnTitle": "COP Application ID",
+      "clickCloseBtn": false
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick":"Disposition (AER)",
+      "expectedTextValue":"Find a Disposition (AER)",
+      "resultsGridSectionTitle": "AER DIDS Applications",
+      "resultsGridColumnTitle": "Disposition Number",
+      "searchParameters": [
+        {
+          "valueToSearch" : "PLA000001"
+        }
+      ],
+      "clickCloseBtn": false
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Water Act Activity Area",
+      "expectedTextValue": "Find a Water Act Activity Area",
+      "resultsGridSectionTitle": "Water Act Activity Area",
+      "resultsGridColumnTitle": "Authorization ID",
+      "clickCloseBtn": false
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick":"Reclamation Authorization",
+      "expectedTextValue":"Find a Reclamation Authorization",
+      "resultsGridSectionTitle": "Authorization Found",
+      "resultsGridColumnTitle": "Authorization ID",
+      "clickCloseBtn": false
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Assets for Reclamation",
+      "expectedTextValue": "Find Assets for Reclamation",
+      "clickCloseBtn": true
+    }
+  ]
+}

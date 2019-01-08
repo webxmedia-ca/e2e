@@ -1,0 +1,26 @@
+{
+  "baseUrl": "https://onestopuat.aer.ca/onestop",
+  "gisBaseExternalUrl": "https://extmapviewer-uat.aer.ca",
+  "gisBasePublicUrl": "https://extmapviewer-uat.aer.ca",
+  "gisBaseInternalUrl": "https://intmapviewer-uat.aer.ca",
+  "tableauBaseExternalUrl": "https://bi-uat.aer.ca/t/StageUAT",
+  "tableauBaseInternalUrl": "https://tableau.aer.energyregulator.ab.ca/t",
+  "internal": {
+    "credentials": {
+      "username": "CBCBCB",
+      "password": "Nala@2017"
+    }
+  },
+  "external": {
+    "credentials": {
+      "username": "0039CMSA",
+      "password": "Nala2017"
+    }
+  },
+  "public": {
+    "credentials": {
+      "username": "",
+      "password": ""
+    }
+  }
+}

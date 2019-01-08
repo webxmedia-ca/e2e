@@ -1,0 +1,121 @@
+{
+  "sectionsConditionsValues": [
+    {
+      "section": "APPROVAL CERTIFICATE",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "Pursuant to the Water Act, R.S.A. 2000, c. W-3, as amended, an approval is issued to the Approval Holder for the following activity:"
+        },
+        {
+          "statementValue": "(a) placing, constructing, operating, maintaining, removing, disturbing works, in or on any land, water or water body;"
+        }
+      ]
+    },
+    {
+      "section": "DEFINITIONS",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "All definitions from the Act and the Regulations apply except where expressly defined in this approval.\nIn all parts of this approval:"
+        },
+        {
+          "statementValue": "\"Act\" means the Water Act, RSA 2000, c. W-3, as amended;"
+        },
+        {
+          "statementValue": "\"Director\" means an authorized employee of the Alberta Energy Regulator;"
+        },
+        {
+          "statementValue": "\"Regulations\" means the regulations, as amended, enacted under the authority of the Act;"
+        },
+        {
+          "statementValue": "\"Maintenance\" means the routine repair, upkeep and preservation of the activity authorized under this approval;"
+        }
+      ]
+    },
+    {
+      "section": "GENERAL",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "The Approval Holder shall immediately report to the Director by telephone, any contravention of the terms and conditions of this approval at 1-780-422-4505."
+        },
+        {
+          "statementValue": "The terms and conditions of this approval are severable.  If any term or condition of this approval is held invalid, the application of such term or condition to other circumstances and the remainder of this approval shall not be affected thereby."
+        },
+        {
+          "statementValue": "The Approval Holder shall retain a copy of:\n\n(a) this approval; and\n\n(b) the plan(s)/report(s) referred to in Condition {{condition number}}\n\nat the site of the activity at all times while conducting the activity"
+        }
+      ]
+    },
+    {
+      "section": "PARTICULARS",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "This approval is appurtenant to the undertaking described as reservoir construction, located at the legal land locations listed under Appendix 1, as shown in the plans submitted with the application {{optional plan list}}."
+        },
+        {
+          "statementValue": "The Approval Holder shall undertake the activity in accordance with the following plans submitted with the application:\n\n(a) Project Boundary ({{project boundary plan}}); and\n\n(b) {{other plans as required}}"
+        },
+        {
+          "statementValue": "The Approval Holder shall not undertake the activity in any manner or use any material that causes or may cause an adverse effect on the aquatic environment, human health or public safety."
+        },
+        {
+          "statementValue": "The Approval Holder shall not release water affected by the activity to any water body unless the quality of water is equal to or better than the quality of water in the receiving water body."
+        },
+        {
+          "statementValue": "The Approval Holder shall not conduct maintenance except for the following:\n\n(a) restoration maintenance to design grades as indicated in the plans submitted with the application;\n\n(b) removal of debris and vegetation;\n\n(c) repair/replacement of culverts; \n\n(d) repair of seepage control system; and\n\n(e) any other maintenance actions authorized in writing by the Director."
+        }
+      ]
+    },
+    {
+      "section": "SILTATION AND EROSION",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "The Approval Holder shall minimize:\n\n(a) siltation; and\n\n(b) erosion\n\nof the water body as a result of the activity."
+        }
+      ]
+    },
+    {
+      "section": "EXPLORATORY SHOT-HOLE",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "The Approval Holder shall only drill exploratory shot-holes when the water body is frozen down to the bed or the water depth is less than 0.5 metres."
+        },
+        {
+          "statementValue": "The Approval Holder shall plug and seal all exploratory shot-holes drilled in the water body in a manner that will prevent the mixing of groundwater and surface water."
+        },
+        {
+          "statementValue": "The Approval Holder shall immediately, upon detection of a flowing exploratory shot-hole, plug and seal the exploratory shot-hole so as to confine the flow."
+        }
+      ]
+    },
+    {
+      "section": "CERTIFICATE OF COMPLETION",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "Within 60 days following completion of the activity, the Approval Holder shall submit to the Director, a Certificate of Completion."
+        },
+        {
+          "statementValue": "The Certificate of Completion shall include:\n\n(a) a statement that the activity has been completed in accordance with the approval; and\n\n(b) any other information requested in writing by the Director."
+        }
+      ]
+    },
+    {
+      "section": "COMPLAINT INVESTIGATION",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "The Approval Holder shall:\n\n(a) investigate all written complaints accepted by the Director relating to allegations of surface water and groundwater interference as a result of the activity; and\n\n(b) provide a written report to the Director, within a time specified in writing by the Director, detailing the results of the investigation relating to the complaint accepted by the Director in (a)."
+        },
+        {
+          "statementValue": "The Approval Holder shall satisfy the Director that the report submitted pursuant to Condition {{condition number}} has identified remedial and/or mitigative measures relating to the alleged interference."
+        }
+      ]
+    }
+  ]
+}

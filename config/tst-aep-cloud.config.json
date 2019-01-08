@@ -1,0 +1,27 @@
+{
+  "baseUrlExt": "https://eas-tst.gov.ab.ca/onestop",
+  "baseUrlInt": "https://eas-tst.gov.ab.ca/onestop-int",
+  "gisBaseExternalUrl": "https://extmapviewer-tst.aer.ca",
+  "gisBasePublicUrl": "https://extmapviewer-tst.aer.ca",
+  "gisBaseInternalUrl": "https://ieasmv.tst.internal.aep.alberta.ca/onestop",
+  "tableauBaseExternalUrl": "https://bi-uat.aer.ca/t",
+  "tableauBaseInternalUrl": "https://bi-tst.tst.internal.aep.alberta.ca/t",
+  "internal": {
+    "credentials": {
+      "username": "EASASU.T@gov.ab.ca",
+      "password": "FallWinter2018"
+    }
+  },
+  "external": {
+    "credentials": {
+      "username": "AEP.Onestop@aer.ca",
+      "password": "AEPNala@2017"
+    }
+  },
+  "public": {
+    "credentials": {
+      "username": "",
+      "password": ""
+    }
+  }
+}

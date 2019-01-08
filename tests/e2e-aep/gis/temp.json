@@ -1,0 +1,746 @@
+{
+  "toolsMenu": [
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": "button[title='Find ATS']",
+      "expectedCSS": "span[title='Go To ATS']",
+      "expectedText": "Go To ATS",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": "button[title='FindAddress']",
+      "expectedCSS": "span[title='Find Address']",
+      "expectedText": "Find Address",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": "button[title='Find out about a location on the map']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Identify",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Enable buffering for active tool']",
+      "expectedCSS": "span[title='Buffer Options']",
+      "expectedText": "Buffer Options",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Disable buffering for active tool']",
+      "expectedCSS": false,
+      "expectedText": false,
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Enable/Disable layers selected for identify operations']",
+      "expectedCSS": "span[title='Identifiable Layers']",
+      "expectedText": "Identifiable Layers",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": ".CompactToolbarView > .flyout-menu > .flyout-menu-active-tool",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": "button[title='Plot coordinates on the map']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "PlotCoordinatesTool",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedCSS": ".CoordinatesContainerView span[title='Plot Coordinates']",
+      "expectedText": "Plot Coordinates",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": ".CompactToolbarView > .flyout-menu > .flyout-menu-active-tool",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Return to the initial position of the map']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": "button[title='Return to the full extent of the map']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": "button[title='Zoom to the previous extent']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": ".map-top-right .scroll-forward",
+      "expectedCSS": "button[title='Show simple query builder']",
+      "expectedText": "Query",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Zoom to the next extent']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": ".map-top-right .scroll-forward",
+      "expectedCSS": "button[title='Show simple query builder']",
+      "expectedText": "Query",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Add a point to the map']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Point",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Change which layers are snappable']",
+      "expectedCSS": "span[title='Snappable Layers']",
+      "expectedText": "Snappable Layers",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Choose styling for the currently selected drawing tool']",
+      "expectedCSS": ".modal-container .panel-title .bound-visible-inline",
+      "expectedText": "Select Desired Styling",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": ".CompactToolbarView > .flyout-menu > .flyout-menu-active-tool",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": ".map-top-right .scroll-forward",
+      "expectedCSS": "button[title='Show simple query builder']",
+      "expectedText": "Query",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Draw a multi-part line to measure a distance']",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Distance",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Change which layers are snappable']",
+      "expectedCSS": "span[title='Snappable Layers']",
+      "expectedText": "Snappable Layers",
+      "closeSideMenu": true
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": ".CompactToolbarView > .flyout-menu > .flyout-menu-active-tool",
+      "expectedCSS": ".flyout-menu-active-tool > .bound-visible-inline > .tool-label",
+      "expectedText": "Tools",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": true,
+      "toolsSubmenuToClick": ".map-top-right .scroll-forward",
+      "expectedCSS": "button[title='Show simple query builder']",
+      "expectedText": "Query",
+      "closeSideMenu": false
+    },
+    {
+      "clickToolsButton": false,
+      "toolsSubmenuToClick": "button[title='Show simple query builder']",
+      "expectedCSS": ".SimpleQueryBuilderContainerView span[title='Query']",
+      "expectedText": "Query",
+      "closeSideMenu": true
+    }
+  ],
+  "layersList": [
+    {
+      "layerName": "Reference Grid",
+      "subMenu": [
+        {
+          "layerName": "Legal SubDivision"
+        },
+        {
+          "layerName": "Quarter Section with Road Allowance"
+        },
+        {
+          "layerName": "Section"
+        },
+        {
+          "layerName": "Township Index"
+        },
+        {
+          "layerName": "Provincial Boundaries"
+        },
+        {
+          "layerName": "50k NTS Mapsheets"
+        }
+      ]
+    },
+    {
+      "layerName": "Asset",
+      "subMenu": [
+        {
+          "layerName": "AER DIDS Applications"
+        },
+        {
+          "layerName": "Industrial Disposition"
+        },
+        {
+          "layerName": "Commercial Disposition"
+        },
+        {
+          "layerName": "Agriculture Disposition"
+        },
+        {
+          "layerName": "Reservation Disposition"
+        },
+        {
+          "layerName": "DIDS Conflicts"
+        },
+        {
+          "layerName": "DIDS Historical"
+        }
+      ]
+    },
+    {
+      "layerName": "Application",
+      "subMenu": [
+        {
+          "layerName": "Water Act Applications",
+          "subMenu": [
+            {
+              "layerName": "Provisional Water Act Activity Area"
+            },
+            {
+              "layerName": "Provisional Dam"
+            },
+            {
+              "layerName": "Provisional Pond"
+            },
+            {
+              "layerName": "Provisional Reservoir",
+              "hidden": true
+            },
+            {
+              "layerName": "Provisional Wetland"
+            },
+            {
+              "layerName": "Provisional Excavation"
+            },
+            {
+              "layerName": "Provisional Flood Control"
+            },
+            {
+              "layerName": "Provisional Drainage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layerName": "Authorization",
+      "subMenu": [
+        {
+          "layerName": "EPEA"
+        },
+        {
+          "layerName": "Water Act Authorization",
+          "subMenu": [
+            {
+              "layerName": "Dam"
+            },
+            {
+              "layerName": "Pond"
+            },
+            {
+              "layerName": "Reservoir",
+              "hidden": true
+            },
+            {
+              "layerName": "Wetland"
+            },
+            {
+              "layerName": "Excavation"
+            },
+            {
+              "layerName": "Flood Control"
+            },
+            {
+              "layerName": "Drainage"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layerName": "Water Allocation Disturbance",
+      "subMenu": [
+        {
+          "layerName": "Groundwater Activity - Application"
+        },
+        {
+          "layerName": "Groundwater Activity - Authorization"
+        },
+        {
+          "layerName": "Groundwater Diversion - Application"
+        },
+        {
+          "layerName": "Groundwater Diversion - Authorization"
+        },
+        {
+          "layerName": "Surface Water Activity - Application"
+        },
+        {
+          "layerName": "Surface Water Activity - Authorization"
+        },
+        {
+          "layerName": "Surface Water Diversion - Application"
+        },
+        {
+          "layerName": "Surface Water Diversion - Authorization"
+        }
+      ]
+    },
+    {
+      "layerName": "Access",
+      "subMenu": [
+        {
+          "layerName": "Roads Paved"
+        },
+        {
+          "layerName": "Roads Gravel"
+        },
+        {
+          "layerName": "Roads Other"
+        },
+        {
+          "layerName": "Cutline"
+        },
+        {
+          "layerName": "Rail Line"
+        }
+      ]
+    },
+    {
+      "layerName": "Land",
+      "subMenu": [
+        {
+          "layerName": "Brazeau Dam Buffer"
+        },
+        {
+          "layerName": "Peace River Recommendation1B Areas"
+        },
+        {
+          "layerName": "Battle Lake Tier 1"
+        },
+        {
+          "layerName": "Burnstick Lake Management Plan"
+        },
+        {
+          "layerName": "Land Ownership Outline"
+        },
+        {
+          "layerName": "Landtitles right-of-way"
+        },
+        {
+          "layerName": "Crown Ownership -Titled/Untitled/NonPatent"
+        },
+        {
+          "layerName": "Integrated Resource Plan - Local"
+        },
+        {
+          "layerName": "Integrated Resource Plan - Subregional"
+        },
+        {
+          "layerName": "LARP Conservation and Tourism Recreation Areas"
+        },
+        {
+          "layerName": "Eastern Slopes Land Use Zoning"
+        },
+        {
+          "layerName": "SSRP Conservation and Tourism Recreation Areas"
+        },
+        {
+          "layerName": "Land-Use Framework Boundaries"
+        },
+        {
+          "layerName": "Public Land Use Zone"
+        },
+        {
+          "layerName": "Green White Areas"
+        },
+        {
+          "layerName": "Permanent Sample Plots"
+        }
+      ]
+    },
+    {
+      "layerName": "Municipality",
+      "subMenu": [
+        {
+          "layerName": "City"
+        },
+        {
+          "layerName": "Town"
+        },
+        {
+          "layerName": "Village"
+        },
+        {
+          "layerName": "Summer Village"
+        },
+        {
+          "layerName": "Urban Service Areas"
+        },
+        {
+          "layerName": "Settlements Provincial"
+        },
+        {
+          "layerName": "Small Communities"
+        },
+        {
+          "layerName": "Special Area Rural Municipality"
+        },
+        {
+          "layerName": "Special Municipality"
+        },
+        {
+          "layerName": "Improvement Districts"
+        },
+        {
+          "layerName": "Municipal Districts"
+        }
+      ]
+    },
+    {
+      "layerName": "First Nations",
+      "subMenu": [
+        {
+          "layerName": "First Nation Reserve"
+        },
+        {
+          "layerName": "Metis Settlement"
+        }
+      ]
+    },
+    {
+      "layerName": "Ecology",
+      "subMenu": [
+        {
+          "layerName": "Endangered and Threatened Plants Ranges"
+        },
+        {
+          "layerName": "Natural Sub-Regions"
+        },
+        {
+          "layerName": "Natural Regions"
+        }
+      ]
+    },
+    {
+      "layerName": "Wildlife",
+      "subMenu": [
+        {
+          "layerName": "Game Bird Sanctuary"
+        },
+        {
+          "layerName": "Key Wildlife and Biodiversity Zones"
+        },
+        {
+          "layerName": "Prov Sanctuary Restricted Area"
+        },
+        {
+          "layerName": "Special Access Zone"
+        },
+        {
+          "layerName": "Eastern Short-Horned Lizard Range"
+        },
+        {
+          "layerName": "Greater Sage Grouse Areas (Federal)"
+        },
+        {
+          "layerName": "Greater Sage Grouse Leks and Buffer"
+        },
+        {
+          "layerName": "Greater Sage Grouse Habitat and Buffer"
+        },
+        {
+          "layerName": "Ords Kangaroo Rat Range"
+        },
+        {
+          "layerName": "Piping Plover Buffers"
+        },
+        {
+          "layerName": "Piping Plover Waterbodies"
+        },
+        {
+          "layerName": "Sensitive Snake Range"
+        },
+        {
+          "layerName": "Swift Fox Range"
+        },
+        {
+          "layerName": "Sensitive Amphibian Range"
+        },
+        {
+          "layerName": "Mountain Goat and Sheep Range"
+        },
+        {
+          "layerName": "Burrowing Owl Range"
+        },
+        {
+          "layerName": "Sharp-tailed Grouse Leks and Buffers"
+        },
+        {
+          "layerName": "Sharp-tailed Grouse Survey"
+        },
+        {
+          "layerName": "Sensitive Raptor Range"
+        },
+        {
+          "layerName": "Trumpeter Swan Buffers"
+        },
+        {
+          "layerName": "Trumpeter Swan Waterbodies"
+        },
+        {
+          "layerName": "Grizzly Bear Zone"
+        },
+        {
+          "layerName": "Caribou Range"
+        },
+        {
+          "layerName": "Provincial Sanctuary - Seasonal"
+        }
+      ]
+    },
+    {
+      "layerName": "Parks and Protected Areas",
+      "subMenu": [
+        {
+          "layerName": "Natural Areas"
+        },
+        {
+          "layerName": "Crown Reserves"
+        },
+        {
+          "layerName": "Ecological Reserves"
+        },
+        {
+          "layerName": "Provincial Recreation Area"
+        },
+        {
+          "layerName": "Heritage Rangeland"
+        },
+        {
+          "layerName": "Provincial Park"
+        },
+        {
+          "layerName": "Wilderness Area"
+        },
+        {
+          "layerName": "Wilderness Park"
+        },
+        {
+          "layerName": "Wildland Park"
+        },
+        {
+          "layerName": "National Park"
+        }
+      ]
+    },
+    {
+      "layerName": "Water Act Activity Area",
+      "subMenu": [
+        {
+          "layerName": "noname",
+          "hidden": true
+        },
+        {
+          "layerName": "Code of Practice Management Area Label"
+        },
+        {
+          "layerName": "Code of Practice Management Area"
+        }
+      ]
+    },
+    {
+      "layerName": "Forestry",
+      "subMenu": [
+        {
+          "layerName": "Forest Management Unit"
+        },
+        {
+          "layerName": "Forest Management Agreements"
+        },
+        {
+          "layerName": "Community Protection Zones"
+        },
+        {
+          "layerName": "Rocky Mountain Forest Reserve"
+        },
+        {
+          "layerName": "Forest Protection Area"
+        }
+      ]
+    },
+    {
+      "layerName": "Hydrography",
+      "subMenu": [
+        {
+          "layerName": "Water Act Code of Practice"
+        },
+        {
+          "layerName": "Lakes and Rivers"
+        },
+        {
+          "layerName": "Rivers and Streams"
+        },
+        {
+          "layerName": "Alberta Merged Wetland Inventory"
+        },
+        {
+          "layerName": "Alberta Merged Wetland Inventory Index"
+        },
+        {
+          "layerName": "Relative Wetland Value Estimator By Section Index"
+        },
+        {
+          "layerName": "Relative Wetland Value Estimator By Section"
+        },
+        {
+          "layerName": "Relative Wetland Value Assessment Units"
+        }
+      ]
+    },
+    {
+      "layerName": "Military",
+      "subMenu": [
+        {
+          "layerName": "Cold Lake Air Weapons Range"
+        },
+        {
+          "layerName": "Department of National Defense Base"
+        }
+      ]
+    },
+    {
+      "layerName": "Imagery",
+      "subMenu": [
+        {
+          "layerName": "Satellite Imagery",
+          "subMenu": [
+            {
+              "layerName": "SPOT 2017"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "layerName": "World Topographic Map"
+    },
+    {
+      "layerName": "Open Street Map"
+    }
+  ],
+  "quickSearchLinks": [
+    {
+      "clickQuickSearchBtn": true,
+      "linkToClick": false,
+      "expectedTextValue": false,
+      "clickCloseBtn": false
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Provisional Pipeline (AER)",
+      "expectedTextValue": "Find a Provisional Pipeline",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Reclamation Application",
+      "expectedTextValue": "Find a Reclamation Application",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Well Licence",
+      "expectedTextValue": "Find a Well",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Facility Licence",
+      "expectedTextValue": "Find a Facility",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Pipeline Licence",
+      "expectedTextValue": "Find a Pipeline",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Pipeline Installation",
+      "expectedTextValue": "Find a Pipeline Installation",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Compressor Station & Sweet Plant (COP)",
+      "expectedTextValue": "Find a COP",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Disposition (AER)",
+      "expectedTextValue": "Find a Disposition (AER)",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Water Act Activity Area",
+      "expectedTextValue": "Find a Water Act Activity Area",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Pipeline Licences, Pipeline Licence Installations and Dispositions (AER)",
+      "expectedTextValue": "Find Assets by Area",
+      "clickCloseBtn": true
+    }
+  ]
+}

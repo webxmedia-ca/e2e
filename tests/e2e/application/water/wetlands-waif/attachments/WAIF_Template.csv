@@ -1,0 +1,13 @@
+wetlandName,wetlandClass,abwretdValue,wetlandArea,impactedArea,wetlandLoss
+A,Bog [B]-Shrubby [S],B,0.08,1,0
+B,Bog [B]-Shrubby [S],B,0.08,1,0
+C,Bog [B]-Shrubby [S],C,0.08,1,0
+D,Bog [B]-Shrubby [S],D,0.08,0,1
+E,Bog [B]-Shrubby [S],B,0.08,0,1
+F,Bog [B]-Shrubby [S],C,0.08,1,0
+G,Fen [F]-Shrubby [S],D,0.08,1,0
+H,Fen [F]-Shrubby [S],D,0.08,1,0
+I,Fen [F]-Shrubby [S],B,0.08,1,0
+J,Shallow Open Water [W]-Bare [B],D,0.08,1,0
+K,Shallow Open Water [W]-Bare [B],D,0.08,1,0
+L,Shallow Open Water [W]-Bare [B],B,0.08,1,0

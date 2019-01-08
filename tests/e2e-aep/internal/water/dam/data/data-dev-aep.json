@@ -1,0 +1,148 @@
+{
+  "sectionsConditionsValues": [
+    {
+      "section": "ACTIVITY",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "Pursuant to the Water Act, R.S.A. 2000, c. W-3, as amended, an approval is issued to the Approval Holder for the following activity:"
+        },
+        {
+          "statementValue": "(a) placing, constructing, operating, maintaining, removing, disturbing works, in or on any land, water or water body;"
+        },
+        {
+          "statementValue": "(b) maintaining, removing or disturbing ground, vegetation or other material in or on any land, water or water body;"
+        },
+        {
+          "statementValue": "(c) altering the flow, direction of flow or level of water;"
+        },
+        {
+          "statementValue": "(d) changing the location of water for the purposes of removing an ice jam, drainage, flood control, erosion control or channel realignment or for a similar purpose;"
+        }
+      ]
+    },
+    {
+      "section": "DEFINITIONS",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "All definitions from the Act and the Regulations apply except where expressly defined in this approval.\nIn all parts of this approval:"
+        },
+        {
+          "statementValue": "Act means the Water Act, RSA 2000, c. W-3, as amended;"
+        },
+        {
+          "statementValue": "Director means an authorized employee of the Alberta Energy Regulator;"
+        },
+        {
+          "statementValue": "Regulations means the regulations, as amended, enacted under the authority of the Act;"
+        },
+        {
+          "statementValue": "Maintenance means the routine repair, upkeep and preservation of the activity authorized under this approval;"
+        }
+      ]
+    },
+    {
+      "section": "GENERAL",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "The Approval Holder shall immediately report to the Director by telephone, any contravention of the terms and conditions of this approval at 1-780-422-4505."
+        },
+        {
+          "statementValue": "The terms and conditions of this approval are severable.  If any term or condition of this approval is held invalid, the application of such term or condition to other circumstances and the remainder of this approval shall not be affected thereby."
+        },
+        {
+          "statementValue": "The Approval Holder shall retain a copy of:\n\n(a) this approval; and\n\n(b) the plan(s)/report(s) referred to in Condition {{condition number}}\n\nat the site of the activity at all times while conducting the activity"
+        }
+      ]
+    },
+    {
+      "section": "PARTICULARS",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "This approval is appurtenant to the undertaking as described as located at {{LLD:mer,rng,twnshp,qtr sect/lot,blk,plan}} as shown in {{Plan/Rep/cond referencing mult plans}}"
+        },
+        {
+          "statementValue": "The {{placemnt/constr/removal/disturb/alter}} activity authorized under this approval shall be completed by {{completed by date}}."
+        },
+        {
+          "statementValue": "The Approval Holder shall not undertake the activity in any manner or use any material that causes or may cause an adverse effect on the aquatic environment, human health or public safety."
+        },
+        {
+          "statementValue": "The Approval Holder shall not release water affected by the activity to any water body unless the quality of water is equal to or better than the quality of water in the receiving water body."
+        },
+        {
+          "statementValue": "The Approval Holder shall not conduct activities in the water body between:\n\n(a) {{start date (a)}} to {{end date (a)}}; and\n\n(b) {{start date (b)}} to {{end date (b)}},\n\nunless: \n\n(c) the water body is dry or frozen down to the bed; or \n\n(d) the site is isolated from the water body in accordance with the recommendations and specifications of a qualified aquatic environmental specialist (QAES) that is onsite during the period of construction/remediation."
+        },
+        {
+          "statementValue": "Any berms, coffer dams or other isolation structures must be removed completely upon completion of the activity."
+        },
+        {
+          "statementValue": "During the activity, the Approval Holder shall maintain a continuous flow of water in the water body."
+        },
+        {
+          "statementValue": "During the activity, the Approval Holder shall not restrict more than 2/3 of the active channel width in the water body."
+        },
+        {
+          "statementValue": "The Approval Holder shall cause any water entering a pump at the source to first pass through a fish screen, unless otherwise recommended by a qualified aquatic environmental specialist (QAES) that is onsite during the period of construction/remediation."
+        },
+        {
+          "statementValue": "The Approval Holder shall ensure that all pumps are equipped with a fish screen that meets the design and installation criteria in the Freshwater Intake End-of-Pipe Fish Screen Guideline as amended from time to time (Department of Fisheries and Oceans Canada, http://www.dfo-mpo.gc.ca/Library/223669.pdf)."
+        },
+        {
+          "statementValue": "The Approval Holder shall clean and maintain all fish screens in accordance with the criteria in the Freshwater Intake End-of-Pipe Fish Screen Guideline."
+        },
+        {
+          "statementValue": "The Approval Holder shall minimize the removal or disturbance of existing bank vegetation at the site of the activity."
+        },
+        {
+          "statementValue": "The Approval Holder shall ensure that natural drainage is maintained, e.g. surface runoff is diverted, around the reservoir in a manner that does not change or impact existing flow patterns downstream of the project."
+        },
+        {
+          "statementValue": "The Approval Holder shall not conduct maintenance except for the following:\n\n(a) {{allow maint. actions or as in Plan/Rep}}; and\n\n(b) any other maintenance actions authorized in writing by the Director."
+        },
+        {
+          "statementValue": "The Approval Holder shall not conduct maintenance except for the following:\n\n(a) restoration maintenance to design grades as indicated in the plans submitted with the application;\n\n(b) removal of debris and vegetation;\n\n(c) repair/replacement of culverts; \n\n(d) repair of seepage control system; and\n\n(e) any other maintenance actions authorized in writing by the Director."
+        },
+        {
+          "statementValue": "The Approval Holder shall notify the Director in writing, a minimum of {{indicate number of days}} days prior to the commencement of each maintenance event."
+        }
+      ]
+    },
+    {
+      "section": "SILTATION AND EROSION",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "The Approval Holder shall minimize: (a) siltation; and (b) erosion of the water body as a result of the activity."
+        },
+        {
+          "statementValue": "The Approval Holder shall:\n\n(a) develop a written Siltation and Erosion Control Plan prior to commencing the activity;\n\n(b) implement the Siltation and Erosion Control Plan; and\n\n(c) retain a copy of the Siltation and Erosion Control Plan at the site of the activity at all times while conducting the activity."
+        },
+        {
+          "statementValue": "The Siltation and Erosion Control Plan shall specify measures to minimize and avoid siltation and erosion of the water body and shall include, at a minimum, the following information:\n\n(a) measures to ensure no removal or disturbance of bank vegetation outside the site of the activity;\n\n(b) site preparation practices to be used on erodible soils;\n\n(c) measures for the management of surface and subsurface water flow to minimize siltation and erosion of any water body;\n\n(d) measures for the stabilization of all disturbed areas until vegetation or other long-term erosion control methods are fully established and functioning; and\n\n(e) measures for the management of excavated material."
+        }
+      ]
+    },
+    {
+      "section": "CERTIFICATE OF COMPLETION",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "A Certificate of Completion is not required for this activity."
+        },
+        {
+          "statementValue": "The Approval Holder shall meet the:\n\n(a) Interim Guidelines for the Disinfection of Fisheries Equipment to Reduce the Spread of Whirling Disease in Southern Alberta; or\n\n(b) any updated guidelines or requirements set by the Province of Alberta with respect to Whirling Disease."
+        },
+        {
+          "statementValue": "Within 60 days following completion of the activity, the Approval Holder shall submit to the Director, a Certificate of Completion."
+        },
+        {
+          "statementValue": "The Certificate of Completion shall include:\n\n(a) a statement that the activity has been completed in accordance with the approval; and\n\n(b) any other information requested in writing by the Director."
+        }
+      ]
+    }
+  ]
+}

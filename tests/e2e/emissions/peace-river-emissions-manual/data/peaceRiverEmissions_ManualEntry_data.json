@@ -1,0 +1,72 @@
+{
+  "peaceRiverEmissionsValues": [
+    {
+      "reportingType": "Peace River Reporting",
+      "reportingFormat": "Manual Entry",
+      "manualEntries": {
+        "peaceRiverEmissions": {
+          "reportingFrequency": "Annual",
+          "reportingPeriod": "January 1,2017 - December 31,2017"
+        },
+        "licenseeInformation": {
+          "managerResponsible": "test managerResponsibilities",
+          "licenseeRepresentative": "test licenseeRepresentative",
+          "licenseePhoneNumber": "4034034033"
+        }
+      }
+    }
+  ],
+  "peaceRiverEmissionsManualEntryDetailsValues": [
+    {
+      "wellsGridValues": {
+        "addWellsRow": true,
+        "facilityLicenseNumber": "21186",
+        "wellLicenseNumber": "0004896",
+        "surfaceLocation": "10~20~30~34~5",
+        "heavyOilOrBitumen": "Yes",
+        "siteInspected": "No",
+        "reasonWhySiteWasNotInspected": "Disposal well"
+      },
+      "componentsForLicenseGridValues": {
+        "addComponent": true,
+        "componentLinkNr": "1",
+        "componentValue": "Actuator seals",
+        "targetedComponent": "Yes",
+        "dateLeakAddressed": "7/25/2018",
+        "leakAddressedWithinRequiredTimeframe": "No",
+        "reasonLeaksNotAddressed": "Leak was bypassed",
+        "commentsValue": "automation test comment"
+      }
+    }
+  ],
+  "peaceRiverValidationRules": [
+    {
+      "applicationValidation": true,
+      "businessRules": [
+        {
+          "ruleDescription": "Leak not addressed in required timeframe",
+          "ruleResults": "Additional Review"
+        }
+      ]
+    }
+  ],
+  "emissionsSubmissionValues": {
+    "submitEmissions": true,
+    "primaryContactInfo": {
+      "contactName": "Automation Primary Contact",
+      "title": "Automation Title - Primary Contact",
+      "email": "automation_primary@testing.com",
+      "primaryPhone": "4034034031",
+      "cellPhone": "4034034032"
+    },
+    "secondaryContactInfo": {
+      "contactName": "Automation Secondary Contact",
+      "title": "Automation Title - Secondary Contact",
+      "email": "automation_secondary@testing.com",
+      "primaryPhone": "4034034034",
+      "cellPhone": "4034034035",
+      "includeSecondaryContactOnAllCorrespondence": true
+    },
+    "declarationAndDisclaimerValue": "I confirm that any personal information submitted to the AER is compliant with the submitter’s obligations under applicable privacy protection legislation (e.g., Personal Information Protection Act or “PIPA”). I acknowledge that the information submitted may be disclosed as part of an AER proceeding and may be placed on the public record, and that all personal information held by the AER is subject to the Freedom of Information and Protection of Privacy Act (FOIP).Where statutory confidentiality applies, I acknowledge that the AER may make all or any portion of the information submitted publicly available on expiry of statutory confidentiality status. I confirm that the information submitted is accurate and includes a complete representation of all the information that is required to be submitted. I am aware that providing false or misleading information to the AER may result in enforcement action. I acknowledge that submission of complete and accurate information is the sole responsibility of the regulated party."
+  }
+}

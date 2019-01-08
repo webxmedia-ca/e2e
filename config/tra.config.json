@@ -1,0 +1,26 @@
+{
+  "baseUrl": "https://onestoptra.aer.ca/onestop",
+  "gisBaseExternalUrl": "https://extmapviewer-tra.aer.ca",
+  "gisBasePublicUrl": "https://extmapviewer-tra.aer.ca",
+  "gisBaseInternalUrl": "https://intmapviewer-tra.aer.ca",
+  "tableauBaseExternalUrl": "https://bi-tra.aer.ca/t/Training",
+  "tableauBaseInternalUrl": "https://tableau.aer.energyregulator.ab.ca/t",
+  "internal": {
+    "credentials": {
+      "username": "CBCBCB",
+      "password": "Nala@2017"
+    }
+  },
+  "external": {
+    "credentials": {
+      "username": "0039CMSA",
+      "password": "Nala2017"
+    }
+  },
+  "public": {
+    "credentials": {
+      "username": "",
+      "password": ""
+    }
+  }
+}

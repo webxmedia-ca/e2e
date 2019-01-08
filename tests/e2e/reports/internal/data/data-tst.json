@@ -1,0 +1,64 @@
+{
+  "reportsLinks": [
+    {
+      "name": "application statistics lifecycle",
+      "url": "/AER/views/051ApplicationStatisticsLifecycleINT_0/ApplicationStatisticsSummary?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no#1",
+      "expectedTitle" : "Application Statistics Summary"
+    },
+    {
+      "name": "methane submissions business rules and exceedance",
+      "url": "/AER/views/TST_206-MMR-MethaneSubmissionsBusinessRulesandExceedance-INT/BusinessRules?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no#2",
+      "expectedTitle" : "Failed Business Rules and Exceedance Values"
+    },
+    {
+      "name": "methane submissions compliance status",
+      "url": "/AER/views/TST_204-MMR-MethaneSubmissionsComplianceStatus-INT/ComplianceSummary?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no#1",
+      "expectedTitle" : "Methane Submissions Compliance Report"
+    },
+    {
+      "name": "mmr emission trends",
+      "url": "/AER/views/TST_207-MMR-EmissionTrends-INT/MonthlyEmissionsTrend?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no#2",
+      "expectedTitle" : "Monthly Emissions Trend"
+    },
+    {
+      "name": "mmr equipments details report",
+      "url": "/AER/views/TST_203-MMR-EquipmentDetailsReport-INT/EquipmentDetailsReport?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no#1",
+      "expectedTitle" : "Equipment Details Report"
+    },
+    {
+      "name": "pipeline application assessment rule",
+      "url": "/AER/views/101-Pipeline-ApplicationAssessmentRules-INT-EXT_0/ApplicationAssessmentRules?:embed=y&:showShareOptions=true&:display_count=no#2",
+      "expectedTitle" : "101 - Pipeline - Application Assessment Rules"
+    },
+    {
+      "name": "pipeline application metrics report",
+      "url": "/AER/views/103-Pipeline-ApplicationsMetricsbyLeadReviewer-INT_2/103-PipelineApplicationsMetrics?:embed=y&:showShareOptions=true&:display_count=no",
+      "expectedTitle" : "103 - Pipeline Applications Metrics - INT"
+    },
+    {
+      "name": "pipeline application statistics lifecycle",
+      "url": "/AER/views/102PipelineApplicationStatisticsLifecycleINT_2/102-PipelineApplicationStatisticsSummary?:embed=y&:showShareOptions=true&:display_count=no",
+      "expectedTitle" : "102 - Pipeline Application Statistics Summary"
+    },
+    {
+      "name": "pipeline company application report card",
+      "url": "/AER/views/107-PipelineCompanyApplicationReportCard-INT_1/107-PipelineCompanyApplicationReportCard?:embed=y&:showShareOptions=true&:display_count=no",
+      "expectedTitle" : "Internal Pipeline Company Application Report Card"
+    },
+    {
+      "name": "pipeline regional plans and designated areas",
+      "url": "/AER/views/104-PipelineRegionalPlansandDesignatedAreasINT_2/104-PipelineRegionalPlansandDesignatedAreas?:embed=y&:showShareOptions=true&:display_count=no",
+      "expectedTitle" : "104 - Pipeline Regional Plans and Designated Areas"
+    },
+    {
+      "name": "tour compliance dashboard",
+      "url": "/AER/views/TST_304_Inspections_TourComplianceDashboard-INT/TourComplianceDashboard?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no",
+      "expectedTitle" : "Tour Compliance Dashboard"
+    },
+    {
+      "name": "tour submission dashboard",
+      "url": "/AER/views/TST_309_Inspections_TourSubmissionDashboard_INT/TourSubmissionDashboard?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no",
+      "expectedTitle" : "Historical Tour Submission Dashboard"
+    }
+  ]
+}

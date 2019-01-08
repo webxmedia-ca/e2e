@@ -1,0 +1,26 @@
+{
+  "baseUrl": "https://aep-onestoptst.aer.ca/onestop",
+  "gisBaseExternalUrl": "https://aep-onestoptst",
+  "gisBasePublicUrl": "https://extmapviewer-tst.aer.ca",
+  "gisBaseInternalUrl": "https://intmapviewer-tstaep.aer.ca/onestop",
+  "tableauBaseExternalUrl": "https://bi-uat.aer.ca/t",
+  "tableauBaseInternalUrl": "https://bi-uat.aer.ca/t",
+  "internal": {
+    "credentials": {
+      "username": "CBWASU",
+      "password": "Nala@2017"
+    }
+  },
+  "external": {
+    "credentials": {
+      "username": "0aepAdmin1",
+      "password": "Nala2017"
+    }
+  },
+  "public": {
+    "credentials": {
+      "username": "",
+      "password": ""
+    }
+  }
+}

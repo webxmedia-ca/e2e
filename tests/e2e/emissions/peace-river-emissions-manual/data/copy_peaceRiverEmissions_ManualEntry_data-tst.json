@@ -1,0 +1,71 @@
+{
+  "peaceRiverEmissionsValues": [
+    {
+      "reportingFormat": "Manual Entry",
+      "manualEntries": {
+        "peaceRiverEmissions": {
+          "reportingFrequency": "Annual",
+          "reportingPeriod": "January 1,2018 - December 31,2018"
+        },
+        "licenseeInformation": {
+          "managerResponsible": "test managerResponsibilities",
+          "licenseeRepresentative": "test licenseeRepresentative",
+          "licenseePhoneNumber": "4034034033"
+        }
+      }
+    }
+  ],
+  "peaceRiverEmissionsManualEntryDetailsValues": [
+    {
+      "wellsGridValues": {
+        "addWellsRow": false,
+        "facilityLicenseNumber": "",
+        "wellLicenseNumber": "",
+        "surfaceLocation": "10~20~30~34~5",
+        "siteInspected": "No",
+        "reasonWhySiteWasNotInspected": "Disposal well"
+      },
+      "componentsForLicenseGridValues": {
+        "addComponent": false,
+        "componentLinkNr": "1",
+        "componentValue": "Actuator seals",
+        "targetedComponent": "Yes",
+        "dateLeakAddressed": "7/25/2018",
+        "leakAddressedWithinRequiredTimeframe": "No",
+        "reasonLeaksNotAddressed": "Leak was bypassed",
+        "commentsValue": "automation test comment"
+      }
+    }
+  ],
+  "peaceRiverValidationRules": [
+    {
+      "applicationValidation": true,
+      "businessRules": [
+        {
+          "ruleDescription": "A monthly submission not completed by the 18th of each month",
+          "ruleResults": "Additional Review"
+        },
+        {
+          "ruleDescription": "A Facility reported last month not reported this month",
+          "ruleResults": "Additional Review"
+        },
+        {
+          "ruleDescription": "Leak not addressed in required timeframe",
+          "ruleResults": "Baseline Review"
+        },
+        {
+          "ruleDescription": "A non-targeted component has leaked 2 of last 3 months",
+          "ruleResults": "Baseline Review"
+        },
+        {
+          "ruleDescription": "Annual submissions must be more than 7 days after/before a monthly submission",
+          "ruleResults": "Baseline Review"
+        },
+        {
+          "ruleDescription": "Monthly submissions must be submitted more than seven days apart",
+          "ruleResults": "Baseline Review"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+wetlandName,wetlandClass,abwretaValue,wetlandArea,impactedArea,wetlandLoss
+A,Bog [B]-Shrubby [S]-Freshwater [f]-Acidic [a],B,0.08,1,0
+B,Bog [B]-Shrubby [S]-Freshwater [f]-Acidic [a],B,0.08,1,0
+C,Bog [B]-Shrubby [S]-Freshwater [f]-Acidic [a],C,0.08,1,0
+D,Bog [B]-Shrubby [S]-Freshwater [f]-Acidic [a],D,0.08,0,1
+E,Bog [B]-Shrubby [S]-Freshwater [f]-Acidic [a],B,0.08,0,1
+F,Bog [B]-Shrubby [S]-Freshwater [f]-Acidic [a],C,0.08,1,0
+G,Fen [F]-Shrubby [S]-Freshwater [f]-Poor [p],D,0.08,1,0
+H,Fen [F]-Shrubby [S]-Freshwater [f]-Poor [p],D,0.08,1,0
+I,Fen [F]-Shrubby [S]-Freshwater [f]-Poor [p],B,0.08,1,0
+J,Shallow Open Water [W]-Bare [B]-Freshwater [f] to moderately brackish [mb]-Seasonal [III],D,0.08,1,0
+K,Shallow Open Water [W]-Bare [B]-Freshwater [f] to moderately brackish [mb]-Seasonal [III],D,0.08,1,0
+L,Shallow Open Water [W]-Bare [B]-Freshwater [f] to moderately brackish [mb]-Seasonal [III],B,0.08,1,0

@@ -1,0 +1,456 @@
+{
+  "sectionsConditionsValues": [
+    {
+      "section": "APPROVAL CERTIFICATE",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "Pursuant to the Water Act, R.S.A. 2000, c. W-3, as amended, an approval is issued to the Approval Holder for the following activity:"
+        },
+        {
+          "statementValue": "(a) placing, constructing, operating, maintaining, removing, disturbing works, in or on any land, water or water body;"
+        },
+        {
+          "statementValue": "(b) maintaining, removing or disturbing ground, vegetation or other material in or on any land, water or water body;"
+        },
+        {
+          "statementValue": "(c) altering the flow, direction of flow or level of water;"
+        },
+        {
+          "statementValue": "(d) changing the location of water for the purposes of removing an ice jam, drainage, flood control, erosion control or channel realignment or for a similar purpose;"
+        },
+        {
+          "statementValue": "(e) draining groundwater for the purpose of remediation subject to the attached terms and conditions."
+        }
+      ]
+    },
+    {
+      "section": "DEFINITIONS",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "All definitions from the Act and the Regulations apply except where expressly defined in this approval.\nIn all parts of this approval:"
+        },
+        {
+          "statementValue": "\"Act\" means the Water Act, RSA 2000, c. W-3, as amended;"
+        },
+        {
+          "statementValue": "\"Director\" means an authorized employee of the Alberta Energy Regulator;"
+        },
+        {
+          "statementValue": "\"Regulations\" means the regulations, as amended, enacted under the authority of the Act;"
+        },
+        {
+          "statementValue": "\"Maintenance\" means the routine repair, upkeep and preservation of the activity authorized under this approval;"
+        },
+        {
+          "statementValue": "\"Drainage site\" means the water well, dugout, or area determined to be a groundwater source"
+        }
+      ]
+    },
+    {
+      "section": "GENERAL",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "The Approval Holder shall hold harmless the Alberta Energy Regulator for damage or damage claims arising out of the activity."
+        },
+        {
+          "statementValue": "The Approval Holder shall immediately report to the Director by telephone, any contravention of the terms and conditions of this approval at 1-780-422-4505."
+        },
+        {
+          "statementValue": "The Approval Holder shall reclaim any abandoned test well, completed well, or other hole related to the activity authorized by this approval in accordance with the Water (Ministerial) Regulation."
+        },
+        {
+          "statementValue": "The terms and conditions of this approval are severable.  If any term or condition of this approval is held invalid, the application of such term or condition to other circumstances and the remainder of this approval shall not be affected thereby."
+        },
+        {
+          "statementValue": "The Approval Holder shall retain a copy of this approval at the site of the activity."
+        },
+        {
+          "statementValue": "The Approval Holder shall retain a copy of:\n\n(a) this approval; and\n\n(b) the plan(s)/report(s) referred to in Condition {{condition number}}\n\nat the site of the activity at all times while conducting the activity"
+        },
+        {
+          "statementValue": "The Approval Holder shall meet the:\n\n(a) Interim Guidelines for the Disinfection of Fisheries Equipment to Reduce the Spread of Whirling Disease in Southern Alberta; or\n\n(b) any updated guidelines or requirements set by the Province of Alberta with respect to Whirling Disease."
+        },
+        {
+          "statementValue": "On completion, partial completion of the activity, or when requested by the Director, the Approval Holder shall submit to the Director a certificate of completion which includes:\n\n(a) a statement that the activity or that part of the activity has been completed in accordance with the approval, and\n\n(b) any other information required by the Director."
+        }
+      ]
+    },
+    {
+      "section": "PARTICULARS",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "This approval is appurtenant to the undertaking described as construction in a wetland, located at the legal land locations listed under Appendix 1, as shown in the plans submitted with the application {{optional plan list}}."
+        },
+        {
+          "statementValue": "The {{placemnt/constr/removal/disturb/alter}} activity authorized under this approval shall be completed by {{completed by date}}."
+        },
+        {
+          "statementValue": "The Approval Holder shall undertake the activity in accordance with the following plans submitted with the application:\n\n(a) Project Boundary ({{project boundary plan}}); and\n\n(b) {{other plans as required}}"
+        },
+        {
+          "statementValue": "The Approval Holder shall reclaim any disturbed bed and banks of the water body and areas associated with the activity to the original contours that existed prior to the commencement of the activity."
+        },
+        {
+          "statementValue": "The Approval Holder shall sweep the area for wildlife presence, nesting sites, breeding grounds, etc., within 7 days prior to construction. If nesting of migratory birds is observed, the Approval Holder must undertake the actions recommended by a qualified wildlife biologist."
+        },
+        {
+          "statementValue": "The Approval Holder shall not undertake the activity in any manner or use any material that causes or may cause an adverse effect on the aquatic environment, human health or public safety."
+        },
+        {
+          "statementValue": "The Approval Holder shall not deposit any substance that will adversely affect the water body."
+        },
+        {
+          "statementValue": "The Approval Holder shall not release water affected by the activity to any water body unless the quality of water is equal to or better than the quality of water in the receiving water body."
+        },
+        {
+          "statementValue": "Where applicable, the Approval Holder shall only release water to a water body when the quality of water is equal to or better than the quality of water in the receiving water body."
+        },
+        {
+          "statementValue": "If applicable, the Approval Holder shall position the pump intake in the proposed production well(s) above the top of the aquifer."
+        },
+        {
+          "statementValue": "Any berms, coffer dams or other isolation structures must be removed completely upon completion of the activity."
+        },
+        {
+          "statementValue": "The Approval Holder must ensure that all trenches be remediated completely upon completion of the activity to ensure that wetland integrity is maintained."
+        },
+        {
+          "statementValue": "During the activity, the Approval Holder shall maintain a continuous flow of water in the water body."
+        },
+        {
+          "statementValue": "During the activity, the Approval Holder shall not restrict more than 2/3 of the active channel width in the water body."
+        },
+        {
+          "statementValue": "The Approval Holder shall cause any water entering a pump at the source to first pass through a fish screen, unless otherwise recommended by a qualified aquatic environmental specialist (QAES) that is onsite during the period of construction/remediation."
+        },
+        {
+          "statementValue": "The Approval Holder shall ensure that all pumps are equipped with a fish screen that meets the design and installation criteria in the Freshwater Intake End-of-Pipe Fish Screen Guideline as amended from time to time (Department of Fisheries and Oceans Canada, http://www.dfo-mpo.gc.ca/Library/223669.pdf)."
+        },
+        {
+          "statementValue": "The Approval Holder shall clean and maintain all fish screens in accordance with the criteria in the Freshwater Intake End-of-Pipe Fish Screen Guideline."
+        },
+        {
+          "statementValue": "The Approval Holder shall minimize the removal or disturbance of existing bank vegetation at the site of the activity."
+        },
+        {
+          "statementValue": "The Approval Holder shall ensure that natural drainage is maintained, e.g. surface runoff is diverted, around the reservoir in a manner that does not change or impact existing flow patterns downstream of the project."
+        },
+        {
+          "statementValue": "The Approval Holder shall not conduct maintenance except for the following:\n\n(a) {{allow maint. actions or as in Plan/Rep}}; and\n\n(b) any other maintenance actions authorized in writing by the Director."
+        },
+        {
+          "statementValue": "The Approval Holder shall not conduct maintenance except for the following:\n\n(a) restoration maintenance to design grades as indicated in the plans submitted with the application;\n\n(b) removal of debris and vegetation;\n\n(c) repair/replacement of culverts; \n\n(d) repair of seepage control system; and\n\n(e) any other maintenance actions authorized in writing by the Director."
+        },
+        {
+          "statementValue": "The Approval Holder shall notify the Director in writing, a minimum of {{indicate number of days}} days prior to the commencement of each maintenance event."
+        },
+        {
+          "statementValue": "The Approval Holder shall not conduct activities in the water body between:\n\n(a) {{start date (a)}} to {{end date (a)}}; and\n\n(b) {{start date (b)}} to {{end date (b)}},\n\nunless: \n\n(c) the water body is dry or frozen down to the bed; or \n\n(d) the site is isolated from the water body in accordance with the recommendations and specifications of a qualified aquatic environmental specialist (QAES) that is onsite during the period of construction/remediation."
+        },
+        {
+          "statementValue": "This approval is based on knowledge available at the time of issue, and therefore the Director reserves the right to amend the:\n\n(a) maximum rate of water diversion;\n\n(b) number, type and location of observation wells required;\n\n(c) frequency and method of measurement of observation wells;\n\n(d) responsibility for investigation of complaints, and\n\n(e) conditions pertaining to annual water monitoring reports;\n\nanytime that the Director has information indicating unreasonable interference with water supplies or that damage to the aquifer is occurring."
+        }
+      ]
+    },
+    {
+      "section": "SILTATION AND EROSION",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "The Approval Holder shall minimize: (a) siltation; and (b) erosion of the water body as a result of the activity."
+        },
+        {
+          "statementValue": "The Approval Holder shall:\n\n(a) develop a written Siltation and Erosion Control Plan prior to commencing the activity;\n\n(b) implement the Siltation and Erosion Control Plan; and\n\n(c) retain a copy of the Siltation and Erosion Control Plan at the site of the activity at all times while conducting the activity."
+        },
+        {
+          "statementValue": "The Siltation and Erosion Control Plan shall specify measures to minimize and avoid siltation and erosion of the water body and shall include, at a minimum, the following information:\n\n(a) measures to ensure no removal or disturbance of bank vegetation outside the site of the activity;\n\n(b) site preparation practices to be used on erodible soils;\n\n(c) measures for the management of surface and subsurface water flow to minimize siltation and erosion of any water body;\n\n(d) measures for the stabilization of all disturbed areas until vegetation or other long-term erosion control methods are fully established and functioning; and\n\n(e) measures for the management of excavated material."
+        }
+      ]
+    },
+    {
+      "section": "WETLAND MITIGATION",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "The Approval Holder shall implement the proposed Wetland Minimization Plan submitted with the application, or as otherwise authorized in writing by the Director."
+        },
+        {
+          "statementValue": "The Approval Holder shall reclaim wetlands as stipulated in the Wetland Reclamation Proposal submitted with the application, or as otherwise authorized in writing by the Director."
+        },
+        {
+          "statementValue": "Unless otherwise authorized in writing by the Director, the Approval Holder shall prepare and submit a Progressive Wetland Reclamation Report to the Director:\n\n(a) on or before March 31 of the year following commencement of reclamation; and\n\n(b) on or before March 31 of every year following, for Oil and Gas or Pipeline Sector activities;\n\n(c) on or before March 31 of every 3 years following, for Mining Sector activities; or\n\n(d) on or before March 31 of every 5 years following, for In-situ Sector activities."
+        },
+        {
+          "statementValue": "The Progressive Wetland Reclamation Report in 6.3 shall include, at a minimum, all of the following information:\n\n(a) the total area and classes of wetlands reclaimed to date;\n\n(b) the total area and classes of wetlands to be reclaimed over the next reporting period as identified in 6.3;\n\n(c) the total remaining area of wetlands to be reclaimed to fulfill the Wetland Reclamation Plan as authorized;\n\n(d) a comparison of the pre-disturbance to post-disturbance characteristics, including vegetation, soils, hydrology, and habitat;\n\n(e) a summary of proposed changes to the Wetland Reclamation Plan (if any); and\n\n(f) any other information as required in writing by the Director."
+        },
+        {
+          "statementValue": "If the Progressive Wetland Reclamation Report is found deficient by the Director, the Approval Holder shall correct all deficiencies identified in writing by the Director by the date specified in writing by the Director."
+        },
+        {
+          "statementValue": "Upon completion of wetland reclamation pursuant to the Wetland Reclamation Proposal submitted with the application, the Approval Holder shall prepare and submit a Final Wetland Reclamation Summary Report a minimum of 6 months before the expiry of this approval, unless otherwise authorized in writing by the Director."
+        },
+        {
+          "statementValue": "The Final Wetland Reclamation Summary Report in 6.6 shall include, at a minimum, all of the following information:\n\n(a) the total area and classes of wetlands reclaimed;\n\n(b) a comparison of the pre-disturbance to post-disturbance characteristics, including area and classes, vegetation, soils, hydrology, and habitat;\n(c) any deficit between pre-disturbance and post-reclamation wetland areas;\n\n(d) a Wetland Replacement Plan for the outstanding area in the event that there is any deficit between pre-disturbance and post-reclamation wetland areas as identified in condition 6.7(c); and\n\n(e) any other information as required in writing by the Director."
+        },
+        {
+          "statementValue": "If the Final Wetland Reclamation Summary Report is found deficient by the Director, the Approval Holder shall correct all deficiencies identified in writing by the Director by the date specified in writing by the Director."
+        },
+        {
+          "statementValue": "The Approval Holder shall:\n\n(a) complete reclamation and submit all reports, including the Final Wetland Reclamation Summary Report a minimum of 6 months before the expiry of this approval; or\n\n(b) submit an application for an approval amendment to extend the expiry of this approval."
+        },
+        {
+          "statementValue": "The Approval Holder shall not conduct activities in the wetland from {{from date}} to {{to date}}, unless the water body is dry or the worksite is isolated from the activity site."
+        },
+        {
+          "statementValue": "All equipment should be kept clean and not be a source of sediments or contaminants."
+        },
+        {
+          "statementValue": "The Approval Holder shall ensure any equipment that has been used in waters outside of Alberta is free of any aquatic invasive species prior to use in Alberta water bodies."
+        }
+      ]
+    },
+    {
+      "section": "WETLAND REPLACEMENT",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "The Approval Holder shall provide permittee-responsible replacement for the loss of wetlands as stipulated in the Wetland Restorative Replacement Plan described in {{document,author,date of doc}}, or as otherwise authorized in writing by the Director."
+        },
+        {
+          "statementValue": "The Approval Holder shall submit a Validation Report within 30 days after the completion of the wetland restoration activity specified in the Wetland Restorative Replacement Plan."
+        },
+        {
+          "statementValue": "The Validation Report shall include, at a minimum, all of the following:\n\n(a) the roles of the validation team;\n\n(b) the validation assessment; \n\n(c) validation statement;\n\n(d) and any other information required in writing by the Director,\n\nin accordance with the Alberta Wetland Restoration Directive (AEP, 2016), as amended."
+        },
+        {
+          "statementValue": "If the Validation Report is found deficient by the Director, the Approval Holder shall correct all deficiencies identified in writing by the Director by the date specified in writing by the Director."
+        },
+        {
+          "statementValue": "The Approval Holder shall conduct wetland restoration monitoring in accordance with the Alberta Wetland Restoration Directive (AEP, 2016), as amended."
+        },
+        {
+          "statementValue": "The Approval Holder shall retain a Wetland Restoration Agent to verify the wetland restoration at a minimum of four years after wetland restoration."
+        },
+        {
+          "statementValue": "The Approval Holder shall submit a Verification Report within 60 days after completing the wetland restoration verification in condition 7 prepared by a Wetland Restoration Agent, and authenticated by a professional governed by the Professional Responsibilities in Completion and Assurance of Wetland Science, Design and Engineering Work in Alberta."
+        },
+        {
+          "statementValue": "The Verification Report shall include, at a minimum, all of the following:\n\n(a) the roles of the verification team;\n\n(b) monitoring results and analysis;\n\n(c) verification assessment of relative value; \n\n(d) verification conclusion; and\n\n(e) any other information required in writing by the Director,\n\nin accordance with the Alberta Wetland Restoration Directive (AEP, 2016), as amended."
+        },
+        {
+          "statementValue": "If the Verification Report is found deficient by the Director, the Approval Holder shall correct all deficiencies identified in writing by the Director by the date specified in writing by the Director."
+        }
+      ]
+    },
+    {
+      "section": "MONITORING AND REPORTING",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "On or before {{indicate date}}, the Approval Holder shall submit a Monitoring Program Proposal to the Director."
+        },
+        {
+          "statementValue": "The Monitoring Program Proposal shall include, at a minimum, the following information:"
+        },
+        {
+          "statementValue": "(a) measurable wetland objectives for the constructed mitigation, the rationale for the objectives and proposed timelines to meet these objectives;"
+        },
+        {
+          "statementValue": "(b) a list of parameters to be monitored and the monitoring frequency for each;"
+        },
+        {
+          "statementValue": "(c) a rationale for the proposed Monitoring Program;"
+        },
+        {
+          "statementValue": "(d) a description of water drainage and flow patterns of the constructed wetland;"
+        },
+        {
+          "statementValue": "(e) identification of the boundaries for the Monitoring Program;"
+        },
+        {
+          "statementValue": "(f) a plan showing the location of sampling and monitoring points;"
+        },
+        {
+          "statementValue": "(g) a description of the monitoring, sampling and analytical procedures; and"
+        },
+        {
+          "statementValue": "(h) any other information requested in writing by the Director."
+        },
+
+        {
+          "statementValue": "If the Monitoring Program Proposal is found deficient by the Director, the Approval Holder shall correct all of the deficiencies:\n\n(a) as specified in writing by the Director; and\n\n(b) within the time specified in writing by the Director."
+        },
+        {
+          "statementValue": "The Approval Holder shall implement the Monitoring Program Proposal as authorized in writing by the Director."
+        },
+        {
+          "statementValue": "The Approval Holder shall compile an Annual Monitoring Program Summary Report for each calendar year."
+        },
+        {
+          "statementValue": "The Annual Monitoring Program Summary Report shall include, at a minimum, the following information:"
+        },
+        {
+          "statementValue": "(a) the results of the monitoring and sampling as required in the Monitoring Program Proposal;"
+        },
+        {
+          "statementValue": "(b) interpretation of all data collected since the last reporting period, including an assessment of any trends;"
+        },
+        {
+          "statementValue": "(c) an assessment of the progress toward the wetland objectives and timelines to meet these objectives"
+        },
+        {
+          "statementValue": "(d) any proposed modifications to the Monitoring Program Proposal, including rationale for the modifications;"
+        },
+        {
+          "statementValue": "(e) any other information requested in writing by the Director."
+        },
+        {
+          "statementValue": "The Approval Holder shall submit an Annual Monitoring Program Summary Report to the Director:\n\n(a) on or before February 28th of each year following the calendar year in which the information on which the report is based was collected; or\n\n(b) within a time period specified in writing by the Director."
+        },
+
+        {
+          "statementValue": "The Approval Holder shall when requested by the Director:"
+        },
+        {
+          "statementValue": "(a) equip the drainage site(s) with a cumulative meter or other device which registers the quantity of water pumped;"
+        },
+        {
+          "statementValue": "(b) measure the water levels in the drainage site(s) while the pump is operating;"
+        },
+        {
+          "statementValue": "(c) obtain water samples for which a chemical analyses shall be performed that reports the following information:"
+        },
+        {
+          "statementValue": "(i) CHEMISTRY:\n\n - Ammonia-Nitrogen (mg/L)\n - Colour (TCU)\n - Turbidity (NTU)\n - Phenols (mg/L)\n - pH\n - Dissolved Iron (mg/L)\n - Zinc (mg/L)\n - Sulphide (mg/L as H2S)\n - Calcium (mg/L)\n - Magnesium (mg/L)\n - Sodium (mg/L)\n - Manganese (mg/L)\n - Total Phosphorus (mg/L)\n - Total Kjeldahl Nitrogen (TKN)\n - Copper (mg/L)\n - Arsenic (mg/L)\n - Lead (mg/L)\n - Mercury (mg/L)\n - Fluoride (mg/L)\n - Nitrite & Nitrate (mg/L as N)\n - Sulphate (mg/L as SO4)\n - Total Hardness (mg/L as CaCO3)\n - Total Alkalinity (mg/L as CaCO3)\n - Total Dissolved Solids (mg/L)\n - Chloride (mg/L)\n\nBACTERIOLOGICAL:\n\n - Total Coliforms (mpn/100 mL)\n - Fecal Coliforms (mpn/100 mL)\n\n(these analyses will be used to determine the suitability of groundwater for human consumption)"
+        },
+        {
+          "statementValue": "(ii) water temperature, date, and time of sampling"
+        },
+        {
+          "statementValue": "(iii) date the analyses were performed"
+        },
+        {
+          "statementValue": "(iv) results of the analyses"
+        },
+        {
+          "statementValue": "(d) obtain water samples for which a chemical analyses shall be performed that reports the following information:"
+        },
+        {
+          "statementValue": "(i) Total Dissolved Solids, Hardness, Alkalinity, pH, Ca, Mg, Na+K, CO3, HCO3, SO4, Cl, NO3, Fe;"
+        },
+        {
+          "statementValue": "(ii) water temperature, date, and time of sampling;"
+        },
+        {
+          "statementValue": "(iii) date the analyses were performed"
+        },
+        {
+          "statementValue": "(iv) results of the analyses;"
+        },
+        {
+          "statementValue": "(e) maintain the well(s) referenced as {{OBS xx-xx in report xxxxxxxx-Rxx}}, equip the well with an appropriate water level measuring device, and conduct water level measurements:"
+        },
+        {
+          "statementValue": "(i) establish {{number of wells}} permanent observation well(s) which shall be:"
+        },
+        {
+          "statementValue": "(A) located approximately {{from metres}} to {{to metres}} metres from the diversion site(s); and"
+        },
+        {
+          "statementValue": "(B) equipped with a device to allow for water level measurements to be taken;"
+        },
+        {
+          "statementValue": "(ii) provide to the Director, upon completion of the observation well(s), a:"
+        },
+        {
+          "statementValue": "(A) detailed map showing the location of the observation well(s) relative to the diversion site(s) including section boundaries; and"
+        },
+        {
+          "statementValue": "(B) diagram showing construction details of the observation well(s);"
+        },
+        {
+          "statementValue": "(f) survey (within 30 millimeters above mean sea level) the reference point for measuring water levels in any diversion site, standby or piezometer/observation well (including domestic/household wells) affected by this licence."
+        },
+        {
+          "statementValue": "The Approval Holder shall not conduct maintenance except for the following:\n\n(a) {{allowable maint actions/Plan or Report}}; and\n\n(b) any other maintenance actions authorized in writing by the Director."
+        },
+        {
+          "statementValue": "The Approval Holder shall notify the Director in writing, a minimum of {{indicate number of days}} days prior to the commencement of each maintenance event."
+        },
+        {
+          "statementValue": "To reduce fragmentation and integrate land development, the disposition holder shall locate drilling, remote sumps or production facilities as follows;\n\n(a)  Use unoccupied, existing disturbances that are within 250 metres of the proposed disposition boundary,  regardless of quarter or section lines, or;\n\n(b)  Adjoin to existing occupied dispositions and/or existing linear disturbances that are within 250 metres of the proposed disposition boundary, regardless of quarter or section lines, or;\n\n(c)  Where multiple existing occupied dispositions or existing linear disturbances exist, the activity must adjoin to the maximum number of dispositions and disturbances that align with the activity."
+        },
+        {
+          "statementValue": "When requested by the Director, the Approval Holder shall record and retain for each calendar year the following information and shall provide this information to the Director on or before January 31 of each year:\n\n(a) monthly readings of the number of cubic meters of water pumped from the drainage site(s) including dates and times the readings were taken;\n\n(b) monthly measurements of water levels from the drainage site(s) including dates and times at which readings were taken;\n\n(c) total annual quantity of water pumped expressed in cubic metres;\n\n(d) annual submissions of chemical analysis;\n\n(e) a review of the performance of the drainage site(s) during the past year and an assessment, supported by graphs and calculations, of the performance of the aquifer;\n\n(f) recommendations for adjustments of pumping rates, the number and location of observation wells, and drainage site(s) monitoring requirements;\n\n(g) a report prepared by a qualified groundwater consultant on the aquifer performance and recommendations for amendments to the approval;\n\nand any other information requested by the Director."
+        },
+        {
+          "statementValue": "The Director reserves the right to:\n\n(a) amend any term or condition of the approval;\n\n(b) add a term or condition to the approval; or\n\n(c) delete a term or condition from the approval,\n\nbased on the results of the Annual Monitoring Program Summary Report relating to (identify the activity), conducted by the Approval Holder."
+        }
+      ]
+    },
+    {
+      "section": "CERTIFICATE OF COMPLETION",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "A Certificate of Completion is not required for this activity."
+        },
+        {
+          "statementValue": "Within 60 days following completion of the activity, the Approval Holder shall submit to the Director, a Certificate of Completion."
+        },
+        {
+          "statementValue": "The Certificate of Completion shall include:\n\n(a) a statement that the activity has been completed in accordance with the approval; and\n\n(b) any other information requested in writing by the Director."
+        }
+      ]
+    },
+    {
+      "section": "COMPLAINT INVESTIGATION",
+      "conditionStatement":
+      [
+        {
+          "statementValue": "The Approval Holder shall:"
+        },
+        {
+          "statementValue": "provide to the Director and all water users, within a distance specified by the Director, the telephone numbers of the Approval Holder and representative(s) for emergencies relating to operation of the drainage site(s),"
+        },
+        {
+          "statementValue": "(b) investigate all written complaints relating to allegations of surface water and groundwater interference as a result of the drainage site(s) operation  within a distance specified by the Director,"
+        },
+        {
+          "statementValue": "(c) provide a report to the Director, within a time specified by the Director, outlining the results of any:"
+        },
+        {
+          "statementValue": "(i) investigation relating to the alleged interference;"
+        },
+        {
+          "statementValue": "(ii) remediation or mitigative measures as a result of impact due to the operation of the drainage site(s) such as:"
+        },
+        {
+          "statementValue": "(A) lowering the intake of the pump to compensate for a drop in water level;"
+        },
+        {
+          "statementValue": "(B) re-drilling the water well to an increased depth so as to allow the pump to be installed at a lower depth;"
+        },
+        {
+          "statementValue": "(C) drilling a new well which must be pump tested to standards specified by the Director, or"
+        },
+        {
+          "statementValue": "(D) providing an alternate water supply satisfactory to the Director."
+        },
+        {
+          "statementValue": "The Approval Holder shall:\n\n(a) investigate all written complaints accepted by the Director relating to allegations of surface water and groundwater interference as a result of the activity; and\n\n(b) provide a written report to the Director, within a time specified in writing by the Director, detailing the results of the investigation relating to the complaint accepted by the Director in (a)."
+        },
+        {
+          "statementValue": "The Approval Holder shall satisfy the Director that the report submitted pursuant to Condition {{condition number}} has identified remedial and/or mitigative measures relating to the alleged interference."
+        },
+        {
+          "statementValue": "The Director may make decision to suspend or cancel this approval if the Approval Holder fails to satisfy the Director of the investigation and mitigative measures relating to alleged interference."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "dimensionsGridValues": [
+    {
+      "dimensions":[
+        {
+          "shapeType": "Irregular",
+          "length": "100",
+          "width": "50",
+          "totalArea": "5000",
+          "newCut": "50",
+          "existingCut": "0"
+        },
+        {
+          "shapeType": "No",
+          "length": "10",
+          "width": "5",
+          "totalArea": "500",
+          "newCut": "5",
+          "existingCut": "50"
+        }
+      ]
+    }
+  ]
+}

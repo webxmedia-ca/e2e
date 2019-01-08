@@ -1,0 +1,71 @@
+{
+  "reportingFormat": "Manual Entry",
+  "manualEntries": {
+    "reportingYear": "January 1,2017 - December 31,2017",
+    "reportingFacilityId": "ABBT0052210"
+  },
+  "individualDehydratorValues": {
+    "uniqueSiteId": "12345",
+    "uniqueHydratorId": "321",
+    "nrOfDehydratorsOnSite": "5",
+    "surfaceLocationValues": {
+      "subdivision": "8",
+      "section": "12",
+      "township": "9",
+      "range": "15",
+      "meridian": "4"
+    },
+    "distanceToNearestSurfaceDevelopment": "50",
+    "notificationCompleted": "Yes",
+    "installationType": "Battery",
+    "processType": "Dehydration",
+    "dehydratorOperatingStatus": "Operating",
+    "yearOfInstallationOrRelocation": "2016",
+    "siteLimitWhereMultipleDehydratorsOnSite": "6000",
+    "gasFlowRateToDehydrator": "700",
+    "glycolCirculationRate": "130",
+    "wetGasWaterContent": "7",
+    "benzeneConcentration": "10.000",
+    "nrOfOperatingDays": "42",
+    "methaneEmissions": "1200.00",
+    "annualBenzeneEmissionsBeforeControl": "5000.00",
+    "annualBenzeneEmissionsAfterControl": "4300.00",
+    "cumulativeBenzeneEmissionsForMultipleDehydratorsOnSite": "12300.00",
+    "primaryControl": "Other",
+    "primaryControlEfficiency": "75",
+    "primaryControlOther": "asdasddsgsdg fdg fhgfhhg",
+    "secondaryControl": "Other",
+    "secondaryControlEfficiency": "85",
+    "secondaryControlOther": "dfg54ty wrt gsfg rwtg",
+    "thirdControl": "Other",
+    "thirdControlEfficiency": "95",
+    "thirdControlOther": "shy6thy fhfd ghfrhhh",
+    "emissionDeterminationMethod": {
+      "massBalance": "Yes",
+      "simulationTool": "Yes",
+      "stackSampling": "Yes",
+      "totalCaptureTesting": "Yes"
+    },
+    "dateOfEmissionsTestingOrStackSampling": "2018-09-20",
+    "comments": "individual dehydrator inventory form comment #"
+  },
+  "emissionsSubmissionValues": {
+    "submitEmissions": true,
+    "primaryContactInfo": {
+      "contactName": "Automation Primary Contact",
+      "title": "Automation Title - Primary Contact",
+      "email": "automation_primary@testing.com",
+      "primaryPhone": "4034034031",
+      "cellPhone": "4034034032"
+    },
+    "secondaryContactInfo": {
+      "contactName": "Automation Secondary Contact",
+      "title": "Automation Title - Secondary Contact",
+      "email": "automation_secondary@testing.com",
+      "primaryPhone": "4034034034",
+      "cellPhone": "4034034035",
+      "includeSecondaryContactOnAllCorrespondence": false
+    },
+    "declarationAndDisclaimerValue": "I confirm that any personal information submitted to the AER is compliant with the submitter’s obligations under applicable privacy protection legislation (e.g., Personal Information Protection Act or “PIPA”). I acknowledge that the information submitted may be disclosed as part of an AER proceeding and may be placed on the public record, and that all personal information held by the AER is subject to the Freedom of Information and Protection of Privacy Act (FOIP).Where statutory confidentiality applies, I acknowledge that the AER may make all or any portion of the information submitted publicly available on expiry of statutory confidentiality status. I confirm that the information submitted is accurate and includes a complete representation of all the information that is required to be submitted. I am aware that providing false or misleading information to the AER may result in enforcement action. I acknowledge that submission of complete and accurate information is the sole responsibility of the regulated party."
+  }
+}

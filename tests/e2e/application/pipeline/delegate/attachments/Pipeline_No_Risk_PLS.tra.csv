@@ -1,0 +1,2 @@
+action,lineNo,fromLsd,fromSec,fromTwp,fromRge,fromM,fromFc,toLsd,toSec,toTwp,toRge,toM,toFc,length,status,env,hddBored,h2sVolume,level,classLocation,bidirectional,surfacePipeline,idNo
+Add,1,17,31,75,14,5,Well,7,22,75,14,5,Battery,3.14,"Permitted",,,,,Location 1,,,1

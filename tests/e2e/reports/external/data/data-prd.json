@@ -1,0 +1,19 @@
+{
+  "reportsLinks": [
+    {
+      "name": "pipeline application assessment rule",
+      "url": "/views/101-Pipeline-ApplicationAssessmentRules-INT-EXT/ApplicationAssessmentRules?:embed=y&:showShareOptions=true&:display_count=no#4",
+      "expectedTitle" : "101 - Pipeline - Application Assessment Rules"
+    },
+    {
+      "name": "pipeline application statistics lifecycle",
+      "url": "/views/102PipelineApplicationStatisticsLifecycleEXT/102-PipelineApplicationStatisticsSummary?:embed=y&:showShareOptions=true&:display_count=no#6",
+      "expectedTitle" : "102 - Pipeline Application Statistics Summary"
+    },
+    {
+      "name": "pipeline company application report card",
+      "url": "/views/107-PipelineCompanyApplicationReportCard-EXT/107-PipelineCompanyApplicationReportCard?:embed=y&:showShareOptions=true&:display_count=no#7",
+      "expectedTitle" : "External Pipeline Company Application Report Card"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "reportsLinks": [
+    {
+      "name": "Application Review Performance Summary",
+      "url": "/AER/views/PROD_055_Application_Performance_Summary-INT/PerformanceSummary?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no#1",
+      "expectedTitle" : "Application Review Performance Summary"
+    },
+    {
+      "name": "Application Statistics Summary",
+      "url": "/AER/views/051ApplicationStatisticsLifecycleINT_2/ApplicationStatisticsSummary?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no#2",
+      "expectedTitle" : "Application Statistics Summary"
+    },
+    {
+      "name": "ELT Weekly Report on OneStop Analytics",
+      "url": "/AER/views/052-ELTWeeklyreport_2/ELTStatisticsreport-Applications?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no#1",
+      "expectedTitle" : "ELT Weekly Report on OneStop Analytics"
+    },
+    {
+      "name": "Business Rules Analysis",
+      "url": "/AER/views/PROD_054_Application_Business_Rules-INT/BusinessRulesAnalysis?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no#3",
+      "expectedTitle" : "Business Rules Analysis"
+    },
+    {
+      "name": "101 - Pipeline - Application Assessment Rules",
+      "url": "/AER/views/101-Pipeline-ApplicationAssessmentRules-INT-EXT_3/ApplicationAssessmentRules?:embed=y&:showShareOptions=true&:display_count=no#1",
+      "expectedTitle" : "101 - Pipeline - Application Assessment Rules"
+    },
+    {
+      "name": "103 - Pipeline Applications Metrics - INT",
+      "url": "/AER/views/103-Pipeline-ApplicationsMetricsbyLeadReviewer-INT_3/103-PipelineApplicationsMetrics?:embed=y&:showShareOptions=true&:display_count=no#4",
+      "expectedTitle" : "103 - Pipeline Applications Metrics - INT"
+    },
+    {
+      "name": "102 - Pipeline Application Statistics Summary",
+      "url": "/AER/views/102PipelineApplicationStatisticsLifecycleINT_3/102-PipelineApplicationStatisticsSummary?:embed=y&:showShareOptions=true&:display_count=no",
+      "expectedTitle" : "102 - Pipeline Application Statistics Summary"
+    },
+    {
+      "name": "Internal Pipeline Company Application Report Card",
+      "url": "/AER/views/107-PipelineCompanyApplicationReportCard-INT_2/107-PipelineCompanyApplicationReportCard?:embed=y&:showShareOptions=true&:display_count=no",
+      "expectedTitle" : "Internal Pipeline Company Application Report Card"
+    },
+    {
+      "name": "104 - Pipeline Regional Plans and Designated Areas",
+      "url": "/AER/views/104-PipelineRegionalPlansandDesignatedAreasINT_3/104-PipelineRegionalPlansandDesignatedAreas?:embed=y&:showShareOptions=true&:display_count=no#3",
+      "expectedTitle" : "104 - Pipeline Regional Plans and Designated Areas"
+    },
+    {
+      "name": "Tour Compliance Dashboard",
+      "url": "/AER/views/PROD_304_Inspections_TourComplianceDashboard-INT/TourComplianceDashboard?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no#4",
+      "expectedTitle" : "Tour Compliance Dashboard"
+    },
+    {
+      "name": "Historical Tour Submission Dashboard",
+      "url": "/AER/views/PROD_309_Inspections_TourSubmissionDashboard_INT/TourSubmissionDashboard?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no#3",
+      "expectedTitle" : "Historical Tour Submission Dashboard"
+    },
+    {
+      "name": "Volumetric Dashboard",
+      "url": "/AER/views/PROD_301_Inspections_VolumetricDetails_INT/VolumetricDataDashboard?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no#5",
+      "expectedTitle" : "Volumetric Dashboard"
+    },
+    {
+      "name": "Water Approvals Report",
+      "url": "/AER/views/321-Inspections-WaterApprovalsAndCOPNotifications-INT/WaterApprovalsDashboard?:embed=y&:showShareOptions=true&:display_count=no&:showVizHome=no#6",
+      "expectedTitle" : "Water Approvals Report"
+    }
+  ]
+}

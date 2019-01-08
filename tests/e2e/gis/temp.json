@@ -1,0 +1,88 @@
+{
+  "quickSearchLinks": [
+    {
+      "clickQuickSearchBtn": true,
+      "linkToClick": false,
+      "expectedTextValue": false,
+      "clickCloseBtn": false
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Provisional Pipeline (AER)",
+      "expectedTextValue": "Find a Provisional Pipeline",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Provisional Water Act Activity Area",
+      "expectedTextValue": "Find a Provisional Water Act Activity Area",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Reclamation Application",
+      "expectedTextValue": "Find a Reclamation Application",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Well Licence",
+      "expectedTextValue": "Find a Well",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Facility Licence",
+      "expectedTextValue": "Find a Facility",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Pipeline Licence",
+      "expectedTextValue": "Find a Pipeline",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Pipeline Installation",
+      "expectedTextValue": "Find a Pipeline Installation",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Compressor Station & Sweet Plant (COP)",
+      "expectedTextValue": "Find a COP",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Disposition (AER)",
+      "expectedTextValue": "Find a Disposition (AER)",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Well, Facility and Pipeline Licences by BA Code",
+      "expectedTextValue": "Query by BA Code",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Water Act Activity Area",
+      "expectedTextValue": "Find a Water Act Activity Area",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Disposition",
+      "expectedTextValue": "Go to Disposition",
+      "clickCloseBtn": true
+    },
+    {
+      "clickQuickSearchBtn": false,
+      "linkToClick": "Pipeline Licences, Pipeline Licence Installations and Dispositions (AER)",
+      "expectedTextValue": "Find Assets by Area",
+      "clickCloseBtn": true
+    }
+  ]
+}
