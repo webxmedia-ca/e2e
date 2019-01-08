@@ -1,10 +1,5 @@
 {
-  "baseUrl": "https://dcmtst.aer.ca/onestop",
-  "gisBaseExternalUrl": "https://dcmtst.aer.ca/onestop",
-  "gisBasePublicUrl": "https://extmapviewer-tst.aer.ca",
-  "gisBaseInternalUrl": "https://intmapviewer-tst.aer.ca",
-  "tableauBaseExternalUrl": "https://bi-uat.aer.ca/t/Test",
-  "tableauBaseInternalUrl": "https://tableau.aer.energyregulator.ab.ca/t",
+  "baseUrl": "https://google.ca/",
   "internal": {
     "credentials": {
       "username": "CBCBCB",
