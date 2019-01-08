@@ -7,22 +7,26 @@ const waitShort = 2000;
 const waitLong = 5000;
 const harness = require('../../../lib/harness');
 const HarnessJson = require('../../../lib/harness-json');
-const UcLaw = require('../../../lib/OneStop');
+const OneStop = require('../../../lib/OneStopApp-base');
 // const expect = require('chai').expect;
 
 //temp - so I can use driver. actions in the test here
 // UcLaw.init(harness.init, waitShort, waitLong);
-const driver = UcLaw.getAttrs().driver;
+const driver = OneStop.getAttrs().driver;
 //temp - so I can use driver. actions
 
-describe('user: ' + harness.getCommandLineArgs().role + ' / env - ' + harness.getCommandLineArgs().env +
-  ' / browserstack - ' + harness.getCommandLineArgs().browserStack, function () {
-	let harnessObj = null;
+// describe('user: ' + harness.getCommandLineArgs().role + ' / env - ' + harness.getCommandLineArgs().env +
+//   ' / browserstack - ' + harness.getCommandLineArgs().browserStack, function () {
+// 	let harnessObj = null;
+
+describe(harness.getCommandLineArgs().appType + ':' + harness.getCommandLineArgs().appSubType +
+    ' - (' + harness.getCommandLineArgs().username + ' - ' + harness.getCommandLineArgs().env + ')', function () {
+    let harnessObj = null;
 
 	before(async () => {
 		harnessObj = await harness.init();
-		await UcLaw.init(harnessObj, waitShort, waitLong);
-		await UcLaw.login();
+		await OneStop.init(harnessObj, waitShort, waitLong);
+		await OneStop.login();
 	});
 
 	after(async () => {
@@ -30,19 +34,19 @@ describe('user: ' + harness.getCommandLineArgs().role + ' / env - ' + harness.ge
 	});
 
 	afterEach(async () => {
-		await UcLaw.afterEachTest(this.ctx.currentTest);
-		await UcLaw.afterEachTest(this.ctx.currentTest.title);
-		await UcLaw.afterEachTest(this.ctx.currentTest.state);
+		await OneStop.afterEachTest(this.ctx.currentTest);
+		// await OneStop.afterEachTest(this.ctx.currentTest.title);
+		// await OneStop.afterEachTest(this.ctx.currentTest.state);
 	});
 
 	//reading json data files and preparing the required variables for later usage
 	const dataJsonFilePath = require('path').join(__dirname, '/data/data.json');
 
 	const newPageValues = new HarnessJson(dataJsonFilePath).getJsonData().createBasicPage;
-	UcLaw.createBasicPage(newPageValues);
+	// OneStop.createBasicPage(newPageValues);
 
 	describe('click Delete tab', () => {
-		UcLaw.clickOnTabByText('Delete', 'input[value="Delete"]');
+		OneStop.clickOnTabByText('Delete', 'input[value="Delete"]');
 	});
 
 	describe('describe: a group of steps within the test2', () => {

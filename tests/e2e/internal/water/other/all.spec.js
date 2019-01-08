@@ -30,10 +30,10 @@ describe(harness.getCommandLineArgs().appType + ':' + harness.getCommandLineArgs
     });
 
 	OneStop.actionAssignLeadReviewer();
-	
+
 	OneStop.actionAssignDecisionMaker();
 
-    OneStop.actionAddNewSIR(
+  OneStop.actionAddNewSIR(
         "testSubject",
         "testQuestion",
         "Clarification",
@@ -46,7 +46,7 @@ describe(harness.getCommandLineArgs().appType + ':' + harness.getCommandLineArgs
     // const dataJsonFilePath = require('path').join(__dirname, '/data/data-' + harness.getCommandLineArgs().env + '.json');
     // const conditionsTabValues = new HarnessJson(dataJsonFilePath).getJsonData().sectionsConditionsValues;
     // OneStop.actionValidateConditionsTitlesMatchSectionValues(conditionsTabValues);
-	
+
 	OneStop.actionAssignReviewer('Technical', 'Technical - Automated test',
 		new harness.Moment().add(1, 'days').format('MM/DD/YYYY'));
 
