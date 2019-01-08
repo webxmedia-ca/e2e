@@ -3,6 +3,7 @@
     "version": "0.2.0",
     "description": "OneStop Automated e2e Tests",
     "scripts": {
+        "test:google": "mocha --timeout=60000 --slow=30000 --reporter=spec tests/test/google/spec.js --role=all --appType=na --appSubType=na --browserClient=chrome --failureFatal=1",
         "health:logins": "mocha --timeout=60000 --slow=30000 --reporter=spec tests/health_checks/logins/all.logins.spec.js --role=all --appType=na --appSubType=na --browserClient=chrome --failureFatal=1",
         "health-check:external": "mocha --timeout=60000 --slow=30000 --reporter=spec tests/health_checks/non-invasive/external.spec.js --role=external --appType=health-check --appSubType=external --browserClient=chrome --failureFatal=1",
         "health-check:internal": "mocha --timeout=60000 --slow=30000 --reporter=spec tests/health_checks/non-invasive/internal.spec.js --role=internal --appType=health-check --appSubType=internal --browserClient=chrome --failureFatal=1",
